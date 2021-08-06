@@ -2,7 +2,7 @@
 
 ## Schedule
 
-| Week  | Week start at Date | Period                   | Do we have QUSS seminar? | Online/In person | Content                       | QUSS Beers |
+| Week  | Week start on | Period                   | Do we have QUSS seminar? | Online/In person | Content                       | QUSS Beers |
 |-------|--------------------|--------------------------|--------------------------|------------------|-------------------------------|------------|
 | -1    | 20-Sep             | Welcome week             | 0                        |                  | -                             |            |
 | 0     | 27-Sep             | Teaching Block 1         | 0                        |                  | -                             |            |
