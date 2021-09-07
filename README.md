@@ -42,7 +42,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | 5     | 01-Nov             | Teaching Block 1         | Yes                      |                  |                               |            |
 | 6     | 08-Nov             | Teaching Block 1         | Yes                      |                  |                               |            |
 | 7     | 15-Nov             | Teaching Block 1         | Yes                      |                  |                               |            |
-| 8     | 22-Nov             | Teaching Block 1         | Yes                      |                  |                               |            |
+| 8     | 22-Nov             | Teaching Block 1         | Yes                      |                  |Mary Abed Al Ahad <maaa1@st-andrews.ac.uk>|    |
 | 9     | 29-Nov             | Teaching Block 1         | Yes                      |                  |                               |            |
 | 10    | 06-Dec             | Teaching Block 1         | Yes                      |                  |                               |            |
 | 11    | 13-Dec             | Teaching Block 1         | Yes                      |                  |                               |            |
