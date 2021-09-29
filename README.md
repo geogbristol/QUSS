@@ -5,14 +5,13 @@ This page and repository represent the collection of resources for Quantitative 
 We meet for an hour once a week during academic year to discuss what's new in the world of quantitative geography and get inspired by presentations from researchers within our group, but also from the outside. This page provides you with useful information such as when do we meet, where, who is talking, but also link to form where you can provide your feedback or suggestions for sessions.
 
 ## When do we meet?
-We will arrange appropriate slot that fits into timetables of as many of our members as possible. 
+Thursday's 12-1. 
 
 ## Where do we meet?
-On the schedule below, you can see if the session is online or in person.
+See the below table. 
 
-* Online - Please use [this Zoom link](https://bristol-ac-uk.zoom.us/j/97858763043?pwd=bVp6RmRTN1J0UE00M1NLcGpLWkFFQT09
+For those we cannot physically join us, we will set up a [Zoom link](https://bristol-ac-uk.zoom.us/j/97858763043?pwd=bVp6RmRTN1J0UE00M1NLcGpLWkFFQT09
 ) to log in up to 10 min before the session.
-* In person - We will arrange a classroom for this purpose as soon as we know more about the timetables.
 
 ## Who will be talking?
 
