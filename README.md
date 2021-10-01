@@ -41,7 +41,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | 6     | 04-Nov | Teaching Block 1           | Yes                        | In person        | Wills Memorial Building 3.23 | Mary Abed Al Ahad   <maaa1@st-andrews.ac.uk> -       |            |
 | 7     | 11-Nov | Teaching Block 1           | Yes                        | In person        | Wills Memorial Building 3.23 |                                                      |            |
 | 8     | 18-Nov | Teaching Block 1           | Yes                        | In person        | Wills Memorial Building 3.23 |                                                      |            |
-| 9     | 25-Nov | Teaching Block 1           | Yes                        | In person        | Wills Memorial Building 3.23 |                                                      |            |
+| 9     | 25-Nov | Teaching Block 1           | Yes                        | TBC              | Wills Memorial Building 3.23 | Hannah Budnitz, https://www.tsu.ox.ac.uk/people/hbudnitz.html                                                     |            |
 | 10    | 02-Dec | Teaching Block 1           | Yes                        | In person        | Wills Memorial Building 3.23 |                                                      |            |
 | 11    | 09-Dec | Teaching Block 1           | Yes                        | In person        | Wills Memorial Building 3.23 | Tom Cantellow and Rui Sun - Progress   presentations |            |
 | 12    | 16-Dec | Teaching Block 1           | Yes                        | In person        | SR2                          |                                                      |            |
