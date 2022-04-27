@@ -64,7 +64,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | -   | 07-Apr | Spring vacation   | No   |  |   |  |  |     |
 | -   | 14-Apr | Spring vacation   | No   |  |   |  | - |    |
 | -   | 21-Apr | Spring vacation   | No   |  |   |  | - |    |
-| 23   | 28-Apr | Teaching Block 2 | Yes  |  |   | SR2  |    |   |
+| 23   | 28-Apr | Teaching Block 2 | Lunch networking  |  |   | Geography Common Room  |  This will be networking lunch in Geography common room, instead of seminar. Take your own lunch, cake provided |   |
 | 24   | 05-May | Teaching Block 2 | Yes | Online |[Zoom   link](https://bristol-ac-uk.zoom.us/j/97858763043?pwd=bVp6RmRTN1J0UE00M1NLcGpLWkFFQT09)| ~~SR2~~   | [Ate Poorthuis](https://www.kuleuven.be/wieiswie/en/person/00129301) Title TBC    |   |
 | -   | 12-May **4pm** | Summer revision week  | Yes |Online | [Zoom   link](https://bristol-ac-uk.zoom.us/j/97858763043?pwd=bVp6RmRTN1J0UE00M1NLcGpLWkFFQT09)|  |[Taylor Oshan](https://geog.umd.edu/facultyprofile/oshan/taylor) Title TBC    |
 | -   | 18-May | Summer assessment   period | Yes  | In person |   | Peel 5pm followed by a Reception  | **The Johston Lecture in Geography** by [Elizabeth Delmelle](https://geoearth.charlotte.edu/elizabeth-delmelle): The dynamics of urban amenities and residential sorting: New insights from longitudinal property listing and mortgage lending data |  |
