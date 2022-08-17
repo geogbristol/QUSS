@@ -8,13 +8,11 @@ We meet for an hour once a week during academic year to discuss what's new in th
 
 Wednsdays 13.00-14.00 during the 2022-23 academic year.
 
-\*\*Please note that in Weeks 4 (19/10) and 13 (25/1) we will meet at 12-1\*\*.
+**Please note that in Weeks 4 (19/10) and 13 (25/1) we will meet at 12-1**.
 
 ## Where do we meet?
 
 See the below table.
-
-# For those we cannot physically join us, we will set up a [Zoom link](https://bristol-ac-uk.zoom.us/j/97858763043?pwd=bVp6RmRTN1J0UE00M1NLcGpLWkFFQT09) to log in up to 10 min before the session.
 
 ## Session types
 
