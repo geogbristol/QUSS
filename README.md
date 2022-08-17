@@ -26,7 +26,7 @@ Bellow you can find schedule for this academic year.
 
 ## Suggestions, questions, and feedback
 
-If you have a suggestion for discussion, presentation topic you are interested in, know about someone from other university you want to hear about or just want to give us some feedback you can either use [this anonymous google form](https://forms.gle/kSDZTf6AUpANTF9U9) or send us email directly to Mirah [jing.zhang.2021@bristol.ac.uk](mailto:jing.zhang.2021@bristol.ac.uk) or Emmanouil [e.tranos@bristol.ac.uk](mailto:e.tranos@bristol.ac.uk).
+If you have a suggestion for a speaker (including yourself!), or a discussion topic, or you just want to give us some feedback please email Mirah [jing.zhang.2021@bristol.ac.uk](mailto:jing.zhang.2021@bristol.ac.uk) or Emmanouil [e.tranos@bristol.ac.uk](mailto:e.tranos@bristol.ac.uk).
 
 ## Schedule
 
