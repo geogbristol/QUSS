@@ -36,7 +36,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 2    | 5/10  | Hepple           |         |                   |
 | 3    | 12/10 | Hepple           |         |                   |
 | 4    | 19/10 | Hepple **12-1**  |         |                   |
-| 5    | 29/10 | Hepple           |         |                   |
+| 5    | 26/10 | Hepple           |         |                   |
 | 6    | 2/11  | Hepple           |         |                   |
 | 7    | 9/11  | WMB 1.5          |         |                   |
 | 8    | 16/11 | WMB 1.5          |         |                   |
