@@ -30,14 +30,14 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 ## Schedule
 
-| Week | Date  | Room             | Content | QUSS Social event |
+| Week | Date  | Room             | Speaker | QUSS Social event |
 |------|-------|------------------|---------|-------------------|
 | 1    | 28/9  | Hepple           |         |                   |
 | 2    | 5/10  | Hepple           |         |                   |
 | 3    | 12/10 | Hepple           |         |                   |
 | 4    | 19/10 | Hepple **12-1**  |         |                   |
 | 5    | 26/10 | Hepple           |         |                   |
-| 6    | 2/11  | Hepple           |         |                   |
+| 6    | 2/11  | Hepple           | [Robin Lovelace](https://www.robinlovelace.net/): New tools for working with origin-destination datasets and spatial interaction modesl|                   |
 | 7    | 9/11  | WMB 1.5          |         |                   |
 | 8    | 16/11 | WMB 1.5          |         |                   |
 | 9    | 23/11 | Hepple           |         |                   |
