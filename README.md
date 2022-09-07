@@ -40,7 +40,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 6    | 2/11  | Hepple           | [Robin Lovelace](https://www.robinlovelace.net/): New tools for working with origin-destination datasets and spatial interaction modesl|                   |
 | 7    | 9/11  | WMB 1.5          |         |                   |
 | 8    | 16/11 | WMB 1.5          |         |                   |
-| 9    | 23/11 | Hepple           |         |                   |
+| 9    | 23/11 | Hepple           | [Nicholas Dorward](https://research-information.bris.ac.uk/en/persons/nicholas-m-dorward): Population, political institutions, and protests: A multilevel analysis of protest events in African cities|                   |
 | 10   | 30/11 | Hepple           | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): TBC |                   |
 | 11   | 7/12  | WMB 1.5          |         |                   |
 | 12   | 14/12 | Hepple           |         |                   |
