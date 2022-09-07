@@ -33,15 +33,15 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Week | Date  | Room             | Speaker | QUSS Social event |
 |------|-------|------------------|---------|-------------------|
 | 1    | 28/9  | Hepple           |         |                   |
-| 2    | 5/10  | Hepple           |         |                   |
+| 2    | 5/10  | Hepple           | [George Willis](https://www.researchgate.net/profile/George-Willis-3): TBC |                   |
 | 3    | 12/10 | Hepple           |         |                   |
 | 4    | 19/10 | Hepple **12-1**  |         |                   |
-| 5    | 26/10 | Hepple           |         |                   |
+| 5    | 26/10 | Hepple           | [Laura Sheppard](https://twitter.com/laurahsheppard): TBC |                   |
 | 6    | 2/11  | Hepple           | [Robin Lovelace](https://www.robinlovelace.net/): New tools for working with origin-destination datasets and spatial interaction modesl|                   |
 | 7    | 9/11  | WMB 1.5          |         |                   |
 | 8    | 16/11 | WMB 1.5          |         |                   |
 | 9    | 23/11 | Hepple           |         |                   |
-| 10   | 30/11 | Hepple           |         |                   |
+| 10   | 30/11 | Hepple           | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): TBC |                   |
 | 11   | 7/12  | WMB 1.5          |         |                   |
 | 12   | 14/12 | Hepple           |         |                   |
 | 13   | 25/1  | SR2 **12-1**     |         |                   |
@@ -53,6 +53,6 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 19   | 8/3   | Hepple           |         |                   |
 | 20   | 15/3  | SR2              |         |                   |
 | 21   | 22/3  | SR2              |         |                   |
-| 22   | 19/4  | 35 BSQ HWB 2.25  |         |                   |
+| 22   | 19/4  | 35 BSQ HWB 2.25  | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu):         |                   |
 | 23   | 26/4  | 35 BSQ HWB 2.25  |         |                   |
 | 24   | 3/5   | 35 BSQ HWB 2.25  |         |                   |
