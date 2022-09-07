@@ -32,7 +32,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 | Week | Date  | Room             | Speaker | QUSS Social event |
 |------|-------|------------------|---------|-------------------|
-| 1    | 28/9  | Hepple           |         |                   |
+| 1    | 28/9  | Hepple           | Welocme to QuSS! Coffee, tea and biscuits. |                   |
 | 2    | 5/10  | Hepple           | [George Willis](https://www.researchgate.net/profile/George-Willis-3): TBC |                   |
 | 3    | 12/10 | Hepple           |         |                   |
 | 4    | 19/10 | Hepple **12-1**  |         |                   |
