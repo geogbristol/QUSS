@@ -53,6 +53,6 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 19   | 8/3   | Hepple           |         |                   |
 | 20   | 15/3  | SR2              |         |                   |
 | 21   | 22/3  | SR2              |         |                   |
-| 22   | 19/4  | 35 BSQ HWB 2.25  | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu):         |                   |
+| 22   | 19/4  | 35 BSQ HWB 2.25  | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): TBC |                   |
 | 23   | 26/4  | 35 BSQ HWB 2.25  |         |                   |
 | 24   | 3/5   | 35 BSQ HWB 2.25  |         |                   |
