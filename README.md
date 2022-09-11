@@ -42,8 +42,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 8    | 16/11 | WMB 1.5          |         |                   |
 | 9    | 23/11 | Hepple           | [Nicholas Dorward](https://research-information.bris.ac.uk/en/persons/nicholas-m-dorward): Population, political institutions, and protests: A multilevel analysis of protest events in African cities|                   |
 | 10   | 30/11 | Hepple           | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): The value of consumer and mobility data for understanding the geographies of retail centres |                   |
-| 11   | 7/12  | WMB 1.5          |**AQM Y2 PhD presentations** [Ekaterina Melianova](https://research-information.bris.ac.uk/en/persons/ekaterina-melianova)         |                   |
-| 12   | 14/12 | Hepple           |**AQM Y2 PhD presentations** [Tao Zhou](https://research-information.bris.ac.uk/en/persons/tao-zhou) and [Yigong Hu](https://github.com/HPDell) | |
+| 11   | 7/12  | WMB 1.5          |**AQM Y2 PhD presentations:** [Ekaterina Melianova](https://research-information.bris.ac.uk/en/persons/ekaterina-melianova)         |                   |
+| 12   | 14/12 | Hepple           |**AQM Y2 PhD presentations:** [Tao Zhou](https://research-information.bris.ac.uk/en/persons/tao-zhou) and [Yigong Hu](https://github.com/HPDell) | |
 | 13   | 25/1  | SR2 **12-1**     |         |                   |
 | 14   | 1/2   | Hepple           |         |                   |
 | 15   | 8/2   | Hepple           |         |                   |
