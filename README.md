@@ -34,7 +34,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 |------|-------|------------------|---------|-------------------|
 | 1    | 28/9  | Hepple           | Welocme to QuSS! Coffee, tea and biscuits. |                   |
 | 2    | 5/10  | Hepple           | [George Willis](https://www.researchgate.net/profile/George-Willis-3): TBC |                   |
-| 3    | 12/10 | Hepple           |         |                   |
+| 3    | 12/10 | Hepple           | [Kevin Credit](https://www.maynoothuniversity.ie/faculty-social-sciences/our-people/kevin-credit): A structured comparison of causal machine learning methods to assess heterogeneous treatment effects in spatial data        |                   |
 | 4    | 19/10 | Hepple **12-1**  |         |                   |
 | 5    | 26/10 | Hepple           | [Laura Sheppard](https://twitter.com/laurahsheppard): : Gendering the research pipeline: a quantitative feminist geographical approach |                   |
 | 6    | 2/11  | Hepple           | [Robin Lovelace](https://www.robinlovelace.net/): New tools for working with origin-destination datasets and spatial interaction modesl|                   |
