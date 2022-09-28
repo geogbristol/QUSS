@@ -12,7 +12,7 @@ Wednsdays 13.00-14.00 during the 2022-23 academic year.
 
 ## Joining online
 
-Here is the [link](https://bristol-ac-uk.zoom.us/j/98103670328?pwd=VllwYTh5WGZ2S0Y2U2l2MHNGd1BBdz09) to join online if needed.
+Here is the [Zloom link](https://bristol-ac-uk.zoom.us/j/98103670328?pwd=VllwYTh5WGZ2S0Y2U2l2MHNGd1BBdz09) to join online if needed.
 
 ## Where do we meet?
 
