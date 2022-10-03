@@ -43,13 +43,13 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 5    | 26/10 | Hepple           | [Laura Sheppard](https://twitter.com/laurahsheppard): Gendering the research pipeline: a quantitative feminist geographical approach |                   |
 | 6    | 2/11  | Hepple           | [Alessia Calafiore](https://aelissa.github.io/): Towards equitable and inclusive 20 minute cities|                   |
 | 7    | 9/11  | WMB 1.5          |**AQM Y1 PhD presentations:** [Mirah Zhang](https://mobile.twitter.com/MirahJZ) and [Owen Winter](https://owenwinter.co.uk/)        |                   |
-| 8    | 16/11 | WMB 1.5          | [Robin Lovelace](https://www.robinlovelace.net/): New tools for working with origin-destination datasets and spatial interaction modesl|                   |
+| 8    | 16/11 | WMB 1.5          | [Robin Lovelace](https://www.robinlovelace.net/): New tools for working with origin-destination datasets and spatial interaction modesl. **Hackathon 2-4pm in FRY BLDG LG.21 PC** |                   |
 | 9    | 23/11 | Hepple           | [Nicholas Dorward](https://research-information.bris.ac.uk/en/persons/nicholas-m-dorward): Population, political institutions, and protests: A multilevel analysis of protest events in African cities|                   |
 | 10   | 30/11 | Hepple           | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): The value of consumer and mobility data for understanding the geographies of retail centres |                   |
 | 11   | 7/12  | WMB 1.5          |**AQM Y2 PhD presentations:** [Ekaterina Melianova](https://research-information.bris.ac.uk/en/persons/ekaterina-melianova)         |                   |
 | 12   | 14/12 | Hepple           |**AQM Y2 PhD presentations:** [Tao Zhou](https://research-information.bris.ac.uk/en/persons/tao-zhou) and [Yigong Hu](https://github.com/HPDell) | |
 | 13   | 25/1  | Willis 1.5 **12-1**     |         |                   |
-| 14   | 1/2   | Hepple           |         |                   |
+| 14   | 1/2   | Hepple           | [Vikki Houlden](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden)        |                   |
 | 15   | 8/2   | Hepple           |         |                   |
 | 16   | 15/2  | Hepple           |         |                   |
 | 17   | 22/2  | Hepple           |         |                   |
