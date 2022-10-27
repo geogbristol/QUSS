@@ -41,7 +41,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 3    | 12/10 | Hepple           | [Kevin Credit](https://www.maynoothuniversity.ie/faculty-social-sciences/our-people/kevin-credit): A structured comparison of causal machine learning methods to assess heterogeneous treatment effects in spatial data        | The Ostrich          |
 | 4    | 19/10 | Hepple **12-1**  | [George Willis](https://www.researchgate.net/profile/George-Willis-3): Understanding the effects of polycentricity within the shrinking city paradigm in China: A Multi-level approach  |  Eldon House                 |
 | 5    | 26/10 | Hepple           | [Laura Sheppard](https://twitter.com/laurahsheppard): Gendering the research pipeline: a quantitative feminist geographical approach |                   |
-| 6    | 2/11  | WMB 3.23         | [Alessia Calafiore](https://aelissa.github.io/): Towards equitable and inclusive 20 minute cities|   Hope and Anchor        |
+| 6    | 2/11  | WMB 3.23         | [Alessia Calafiore](https://aelissa.github.io/): Towards equitable and inclusive 20 minute cities|   Royal Navy Volunteer        |
 | 7    | 9/11  | ~~WMB 1.5~~          | Cancelled    |                   |
 | 8    | 16/11 | WMB 1.5          | [Robin Lovelace](https://www.robinlovelace.net/): New tools for working with origin-destination datasets and spatial interaction modesl. **Hackathon 2-4pm in FRY BLDG LG.21 PC** |   Royal Navy Volunteer      |
 | 9    | 23/11 | Hepple           | [Nicholas Dorward](https://research-information.bris.ac.uk/en/persons/nicholas-m-dorward): Population, political institutions, and protests: A multilevel analysis of protest events in African cities|                   |
