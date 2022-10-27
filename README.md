@@ -54,7 +54,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 16   | 15/2  | Hepple           | [Vikki Houlden](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden)        |                   |
 | 17   | 22/2  | Hepple           |         |                   |
 | 18   | 1/3   | Hepple           |         |                   |
-| 19   | 8/3   | Hepple           |         |                   |
+| 19   | 8/3   | Hepple           | [Qunshan Zhao](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/): TBC        |                   |
 | 20   | 15/3  | SR2              |         |                   |
 | 21   | 22/3  | SR2              |         |                   |
 | 22   | 19/4  | 35 BSQ HWB 2.25  | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): TBC |                   |
