@@ -50,7 +50,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 12   | 14/12 | Hepple           |**AQM Y2 PhD presentations:** [Tao Zhou](https://research-information.bris.ac.uk/en/persons/tao-zhou) and [Yigong Hu](https://github.com/HPDell) |   Royal Navy Volunteer  |
 | 13   | 25/1  | Willis 1.5 **12-1**     | [Carmen Cabrera-Arnau](https://www.liverpool.ac.uk/environmental-sciences/staff/carmen-cabrera-arnau/): A Journey Through the Complexity of Cities at Different Spatial Scales        |                   |
 | 14   | 1/2   | Hepple           |  **AQM Y1 PhD presentations:** [Mirah J Zhang](https://mobile.twitter.com/MirahJZ) and [Owen Winter](https://owenwinter.co.uk/)       |                   |
-| 15   | 8/2   | Hepple           |         |                   |
+| 15   | 8/2   | Hepple           |  HOLD       |                   |
 | 16   | 15/2  | Hepple           | [Vikki Houlden](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden)        |                   |
 | 17   | 22/2  | Hepple           |         |                   |
 | 18   | 1/3   | Hepple           |         |                   |
