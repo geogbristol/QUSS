@@ -53,10 +53,10 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 15   | 8/2   | Hepple           |  HOLD       |                   |
 | 16   | 15/2  | Hepple           | [Vikki Houlden](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden)        |                   |
 | 17   | 22/2  | Hepple           |         |                   |
-| 18   | 1/3   | Hepple           |         |                   |
+| 18   | 1/3   | Hepple           |   ** Y2 PhD presentations:**  [Emerald Dilworth](https://research-information.bris.ac.uk/en/persons/emerald-dilworth)    |                   |
 | 19   | 8/3   | Hepple           | [Qunshan Zhao](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/): TBC        |                   |
-| 20   | 15/3  | SR2              |         |                   |
+| 20   | 15/3  | SR2              |  **Y1 PhD presentations:** [Qingya Cheng](https://research-information.bris.ac.uk/en/persons/qingya-cheng)  and  [Sitong Guo](https://research-information.bris.ac.uk/en/persons/sitong-guo)   |                   |
 | 21   | 22/3  | SR2              |         |                   |
 | 22   | 19/4  | 35 BSQ HWB 2.25  | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): TBC |                   |
-| 23   | 26/4  | 35 BSQ HWB 2.25  |         |                   |
+| 23   | 26/4  | 35 BSQ HWB 2.25  |   **Y1 PhD presentations:** [Genghao Zhang](https://research-information.bris.ac.uk/en/persons/genghao-zhang)  and  [Jiao Zhou](https://research-information.bris.ac.uk/en/persons/jiao-zhou)         |                   |
 | 24   | 3/5   | 35 BSQ HWB 2.25  |         |                   |
