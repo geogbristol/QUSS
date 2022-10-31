@@ -53,7 +53,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 15   | 8/2   | Hepple           |  HOLD       |                   |
 | 16   | 15/2  | Hepple           | [Vikki Houlden](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden)        |                   |
 | 17   | 22/2  | Hepple           |         |                   |
-| 18   | 1/3   | Hepple           |   ** Y2 PhD presentations:**  [Emerald Dilworth](https://research-information.bris.ac.uk/en/persons/emerald-dilworth)    |                   |
+| 18   | 1/3   | Hepple           |   **Y2 PhD presentations:**  [Emerald Dilworth](https://research-information.bris.ac.uk/en/persons/emerald-dilworth)    |                   |
 | 19   | 8/3   | Hepple           | [Qunshan Zhao](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/): TBC        |                   |
 | 20   | 15/3  | SR2              |  **Y1 PhD presentations:** [Qingya Cheng](https://research-information.bris.ac.uk/en/persons/qingya-cheng)  and  [Sitong Guo](https://research-information.bris.ac.uk/en/persons/sitong-guo)   |                   |
 | 21   | 22/3  | SR2              |         |                   |
