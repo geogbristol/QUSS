@@ -6,7 +6,7 @@ We meet for an hour once a week during academic year to discuss what's new in th
 
 ## When do we meet?
 
-Wednsdays 13.00-14.00 during the 2022-23 academic year.
+Wednesdays 13.00-14.00 during the 2022-23 academic year.
 
 **Please note that in Weeks 4 (19/10) and 13 (25/1) we will meet at 12.00-13.00**.
 
