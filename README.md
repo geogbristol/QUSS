@@ -44,7 +44,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 6    | 2/11  | WMB 3.23         | [Alessia Calafiore](https://aelissa.github.io/): Towards equitable and inclusive 20 minute cities|   The White Harte (Park Row)        |
 | 7    | 9/11  | ~~WMB 1.5~~          | Cancelled    |                   |
 | 8    | 16/11 | ~~WMB 1.5~~          | Cancelled |       |
-| 9    | 23/11 | Hepple           | [Nicholas Dorward](https://research-information.bris.ac.uk/en/persons/nicholas-m-dorward): Population, political institutions, and protests: A multilevel analysis of protest events in African cities|                   |
+| 9    | 23/11 | Hepple           | [Nicholas Dorward](https://research-information.bris.ac.uk/en/persons/nicholas-m-dorward): Urbanization, modernization, and women's participation in African politics|                   |
 | 10   | 30/11 | Hepple           | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): The value of consumer and mobility data for understanding the geographies of retail centres |     Royal Navy Volunteer          |
 | 11   | 7/12  | WMB 1.5          |**AQM Y2 PhD presentations:** [Ekaterina Melianova](https://research-information.bris.ac.uk/en/persons/ekaterina-melianova) and [Giulia Occhini](https://research-information.bris.ac.uk/en/persons/giulia-occhini)       |                   |
 | 12   | 14/12 | Hepple           |**AQM Y2 PhD presentations:** [Tao Zhou](https://research-information.bris.ac.uk/en/persons/tao-zhou) and [Yigong Hu](https://github.com/HPDell) |   Royal Navy Volunteer  |
