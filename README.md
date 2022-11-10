@@ -45,7 +45,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 7    | 9/11  | ~~WMB 1.5~~          | Cancelled    |                   |
 | 8    | 16/11 | ~~WMB 1.5~~          | Cancelled |       |
 | 9    | 23/11 | Hepple           | [Nicholas Dorward](https://research-information.bris.ac.uk/en/persons/nicholas-m-dorward): Urbanization, modernization, and women's participation in African politics|                   |
-| 10   | 30/11 | Hepple           | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): The value of consumer and mobility data for understanding the geographies of retail centres |     Royal Navy Volunteer          |
+| 10   | 30/11 | ~~Hepple~~           | Cancelled |     Royal Navy Volunteer          |
 | 11   | 7/12  | WMB 1.5          |**AQM Y2 PhD presentations:** [Ekaterina Melianova](https://research-information.bris.ac.uk/en/persons/ekaterina-melianova) and [Giulia Occhini](https://research-information.bris.ac.uk/en/persons/giulia-occhini)       |                   |
 | 12   | 14/12 | Hepple           |**AQM Y2 PhD presentations:** [Tao Zhou](https://research-information.bris.ac.uk/en/persons/tao-zhou) and [Yigong Hu](https://github.com/HPDell) |   Royal Navy Volunteer  |
 | 13   | 25/1  | Willis 1.5 **12-1**     | [Carmen Cabrera-Arnau](https://www.liverpool.ac.uk/environmental-sciences/staff/carmen-cabrera-arnau/): A Journey Through the Complexity of Cities at Different Spatial Scales        |                   |
@@ -59,4 +59,4 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 21   | 22/3  | SR2              |         |                   |
 | 22   | 19/4  | 35 BSQ HWB 2.25  | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): TBC |                   |
 | 23   | 26/4  | 35 BSQ HWB 2.25  |   **Y1 PhD presentations:** [Genghao Zhang](https://research-information.bris.ac.uk/en/persons/genghao-zhang)  and  [Jiao Zhou](https://research-information.bris.ac.uk/en/persons/jiao-zhou)         |                   |
-| 24   | 3/5   | 35 BSQ HWB 2.25  |         |                   |
+| 24   | 3/5   | 35 BSQ HWB 2.25  | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): The value of consumer and mobility data for understanding the geographies of retail centres        |                   |
