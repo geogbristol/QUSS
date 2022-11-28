@@ -52,7 +52,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 14   | 1/2   | Hepple           |  **AQM Y1 PhD presentations:** [Mirah J Zhang](https://mobile.twitter.com/MirahJZ) and [Owen Winter](https://owenwinter.co.uk/)       |                   |
 | 15   | 8/2   | Hepple           |  [Robin Lovelace](https://www.robinlovelace.net/): New tools for working with origin-destination datasets and spatial interaction modesl. **Hackathon 2-4pm in FRY BLDG LG.21 PC**       |                   |
 | 16   | 15/2  | Hepple           | [Vikki Houlden](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden)        |                   |
-| 17   | 22/2  | Hepple           |         |                   |
+| 17   | 22/2  | Hepple           |  [Nicholas Dorward](https://research-information.bris.ac.uk/en/persons/nicholas-m-dorward): Urbanization, modernization, and women's participation in African politics  |                   |
 | 18   | 1/3   | Hepple           |   **Y2 PhD presentations:**  [Emerald Dilworth](https://research-information.bris.ac.uk/en/persons/emerald-dilworth) and [Sultan Alotaibi](https://research-information.bris.ac.uk/en/persons/sultan-jazi-s-alotaibi)   |                   |
 | 19   | 8/3   | Hepple           | [Qunshan Zhao](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/): Understand human behaviours by using mobile phone app data during the pandemic in Glasgow        |                   |
 | 20   | 15/3  | SR2              |  **Y1 PhD presentations:** [Qingya Cheng](https://research-information.bris.ac.uk/en/persons/qingya-cheng)  and  [Sitong Guo](https://research-information.bris.ac.uk/en/persons/sitong-guo)   |                   |
