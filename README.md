@@ -48,7 +48,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 10   | 30/11 | ~~Hepple~~           | Cancelled |          |
 | 11   | 7/12  | WMB 1.5          |**AQM Y2 PhD presentations:** [Ekaterina Melianova](https://research-information.bris.ac.uk/en/persons/ekaterina-melianova) and [Giulia Occhini](https://research-information.bris.ac.uk/en/persons/giulia-occhini)       |                    |
 | 12   | 14/12 | Hepple           |**AQM Y2 PhD presentations:** [Tao Zhou](https://research-information.bris.ac.uk/en/persons/tao-zhou) and [Yigong Hu](https://github.com/HPDell) |    |
-| 13   | 25/1  | Willis 1.5 **12-1**     | [Carmen Cabrera-Arnau](https://www.liverpool.ac.uk/environmental-sciences/staff/carmen-cabrera-arnau/): A Journey Through the Complexity of Cities at Different Spatial Scales        |                   |
+| 13   | 25/1  | Willis 1.5 **12-1**     | [Carmen Cabrera-Arnau](https://www.liverpool.ac.uk/environmental-sciences/staff/carmen-cabrera-arnau/): A Journey Through the Complexity of Cities at Different Spatial Scales        |      The Hope and Anchor             |
 | 14   | 1/2   | Hepple           |  **AQM Y1 PhD presentations:** [Mirah J Zhang](https://mobile.twitter.com/MirahJZ) and [Owen Winter](https://owenwinter.co.uk/)       |                   |
 | 15   | 8/2   | Hepple           |  [Robin Lovelace](https://www.robinlovelace.net/): New tools for working with origin-destination datasets and spatial interaction modesl. **Hackathon 2-4pm in FRY BLDG LG.21 PC**       |                   |
 | 16   | 15/2  | Hepple           | [Vikki Houlden](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden)        |                   |
