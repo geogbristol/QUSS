@@ -53,8 +53,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 15   | 8/2   | Hepple           |  [Nicholas Dorward](https://research-information.bris.ac.uk/en/persons/nicholas-m-dorward): Urbanization, modernization, and women's participation in African politics       |                   |
 | 16   | 15/2  | Hepple           | ~~[Vikki Houlden](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden)~~ Cancelled because of strikes        |                   |
 | 17   | 22/2  | Online only           |**Y1 PhD presentations:** [Mirah Zhang](https://twitter.com/MirahJZ): Connecting a Few Concepts in Spatial Causal Inference    |                   |
-| 18   | 1/3   | Hepple           |   **Y2 PhD presentations:**  [Emerald Dilworth](https://research-information.bris.ac.uk/en/persons/emerald-dilworth) and [Sultan Alotaibi](https://research-information.bris.ac.uk/en/persons/sultan-jazi-s-alotaibi)   |                   |
-| 19   | 8/3   | Hepple           | [Qunshan Zhao](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/): Understand human behaviours by using mobile phone app data during the pandemic in Glasgow        |                   |
+| 18   | 1/3   | SR2           |   **Y2 PhD presentations:**  [Emerald Dilworth](https://research-information.bris.ac.uk/en/persons/emerald-dilworth) and [Sultan Alotaibi](https://research-information.bris.ac.uk/en/persons/sultan-jazi-s-alotaibi)   |                   |
+| 19   | 8/3   | SR2           | [Qunshan Zhao](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/): Understand human behaviours by using mobile phone app data during the pandemic in Glasgow        |                   |
 | 20   | 15/3  | SR2              |  **Y1 PhD presentations:** [Qingya Cheng](https://research-information.bris.ac.uk/en/persons/qingya-cheng)  and  [Sitong Guo](https://research-information.bris.ac.uk/en/persons/sitong-guo)   |                   |
 | 21   | 22/3  | SR2              |         |                   |
 | 22   | 19/4  | 35 BSQ HWB 2.25  | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): TBC |                   |
