@@ -59,4 +59,4 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 21   | 22/3  | SR2              |         |                   |
 | 22   | 19/4  | 35 BSQ HWB 2.25  | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): TBC |                   |
 | 23   | 26/4  | 35 BSQ HWB 2.25  |   **Y1 PhD presentations:** [Genghao Zhang](https://research-information.bris.ac.uk/en/persons/genghao-zhang)  and  [Jiao Zhou](https://research-information.bris.ac.uk/en/persons/jiao-zhou)         |                   |
-| 24   | 3/5   | 35 BSQ HWB 2.25  | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): The value of consumer and mobility data for understanding the geographies of retail centres        |                   |
+| 24   | 3/5   | 35 BSQ HWB 2.25  | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): Mobility data: does it live up to the hype?        |                   |
