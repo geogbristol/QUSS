@@ -60,6 +60,6 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 22   | 19/4  | 35 BSQ HWB 2.25  | ~~[Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu)~~ Postponed for next year|                   |
 | 23   | 26/4  | 35 BSQ HWB 2.25  |   **Y1 PhD presentations:** [Genghao Zhang](https://research-information.bris.ac.uk/en/persons/genghao-zhang)  and  [Jiao Zhou](https://research-information.bris.ac.uk/en/persons/jiao-zhou)         |                   |
 | 24   | 3/5   | SR2  | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): Mobility data: does it live up to the hype?        |                   |
-|    | 10/5   | PEEL  |The Johnston Lecture in Geography, [Ed Manley]([https://twitter.com/pj_ballantyne?lang=en](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley)): TBC        |                   |
-| 20   | 17/5  | SR2              |  **Y1 PhD presentations:** [Qingya Cheng](https://research-information.bris.ac.uk/en/persons/qingya-cheng)  and  [Sitong Guo](https://research-information.bris.ac.uk/en/persons/sitong-guo)   |                   |
+|    | 10/5   | PEEL  |The Johnston Lecture in Geography, [Ed Manley]([https://twitter.com/pj_ballantyne?lang=en](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley): TBC        |                   |
+| 20   | 17/5  | TBC              |  **Y1 PhD presentations:** [Qingya Cheng](https://research-information.bris.ac.uk/en/persons/qingya-cheng)  and  [Sitong Guo](https://research-information.bris.ac.uk/en/persons/sitong-guo)   |                   |
 
