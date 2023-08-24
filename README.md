@@ -28,7 +28,7 @@ Bellow you can find schedule for this academic year.
 
 ## Suggestions, questions, and feedback
 
-If you have a suggestion for a speaker (including yourself!), or a discussion topic, or you just want to give us some feedback please email [Mirah](mailto:jing.zhang.2021@bristol.ac.uk), [Cait(Caitlin Robinson <caitlin.robinson@bristol.ac.uk>) or [Emmanouil] (mailto:e.tranos@bristol.ac.uk).
+If you have a suggestion for a speaker (including yourself!), or a discussion topic, or you just want to give us some feedback please email [Mirah](mailto:jing.zhang.2021@bristol.ac.uk), [Cait](mailto:caitlin.robinson@bristol.ac.uk) or [Emmanouil](mailto:e.tranos@bristol.ac.uk).
 
 ## Schedule
 
