@@ -6,9 +6,7 @@ We meet for an hour once a week during academic year to discuss what's new in th
 
 ## When do we meet?
 
-Wednesdays 13.00-14.00 during the 2022-23 academic year.
-
-**Please note that in Weeks 4 (19/10) and 13 (25/1) we will meet at 12.00-13.00**.
+Tuesdays 13.00-14.00 during the 2023-24 academic year.
 
 ## Joining online
 
@@ -30,36 +28,38 @@ Bellow you can find schedule for this academic year.
 
 ## Suggestions, questions, and feedback
 
-If you have a suggestion for a speaker (including yourself!), or a discussion topic, or you just want to give us some feedback please email Mirah [jing.zhang.2021@bristol.ac.uk](mailto:jing.zhang.2021@bristol.ac.uk) or Emmanouil [e.tranos@bristol.ac.uk](mailto:e.tranos@bristol.ac.uk).
+If you have a suggestion for a speaker (including yourself!), or a discussion topic, or you just want to give us some feedback please email [Mirah](mailto:jing.zhang.2021@bristol.ac.uk), [Cait(Caitlin Robinson <caitlin.robinson@bristol.ac.uk>) or [Emmanouil] (mailto:e.tranos@bristol.ac.uk).
 
 ## Schedule
 
 | Week | Date  | Room             | Speaker | QUSS Social event |
 |------|-------|------------------|---------|-------------------|
-| 1    | 28/9  | Hepple           | Welocme to QuSS! Coffee, tea and biscuits. |                   |
-| 2    | 5/10  | Hepple           |  |                   |
-| 3    | 12/10 | Hepple           | [Kevin Credit](https://www.maynoothuniversity.ie/faculty-social-sciences/our-people/kevin-credit): A structured comparison of causal machine learning methods to assess heterogeneous treatment effects in spatial data        | The Ostrich          |
-| 4    | 19/10 | Hepple **12-1**  | [George Willis](https://www.researchgate.net/profile/George-Willis-3): Understanding the effects of polycentricity within the shrinking city paradigm in China: A Multi-level approach  |  Eldon House                 |
-| 5    | 26/10 | Hepple           | [Laura Sheppard](https://twitter.com/laurahsheppard): Gendering the research pipeline: a quantitative feminist geographical approach |                   |
-| 6    | 2/11  | WMB 3.23         | [Alessia Calafiore](https://aelissa.github.io/): Towards equitable and inclusive 20 minute cities|   The White Harte (Park Row)        |
-| 7    | 9/11  | ~~WMB 1.5~~          | Cancelled    |                   |
-| 8    | 16/11 | ~~WMB 1.5~~          | Cancelled |       |
-| 9    | 23/11 | ~~Hepple~~           | Cancelled |    Robin Hood on St Michaels                    |
-| 10   | 30/11 | ~~Hepple~~           | Cancelled |          |
-| 11   | 7/12  | WMB 1.5          |**AQM Y2 PhD presentations:** [Ekaterina Melianova](https://research-information.bris.ac.uk/en/persons/ekaterina-melianova) and [Giulia Occhini](https://research-information.bris.ac.uk/en/persons/giulia-occhini)       |                    |
-| 12   | 14/12 | Hepple           |**AQM Y2 PhD presentations:** [Tao Zhou](https://research-information.bris.ac.uk/en/persons/tao-zhou) and [Yigong Hu](https://github.com/HPDell) |    |
-| 13   | 25/1  | Wills 1.5 **12-1**     | [Carmen Cabrera-Arnau](https://www.liverpool.ac.uk/environmental-sciences/staff/carmen-cabrera-arnau/): A Journey Through the Complexity of Cities at Different Spatial Scales        |      The Hope and Anchor             |
-| 14   | 1/2   | Hepple           | cancelled due to strike      |                   |
-| 15   | 8/2   | Hepple           |  [Nicholas Dorward](https://research-information.bris.ac.uk/en/persons/nicholas-m-dorward): Urbanization, modernization, and women's participation in African politics       |                   |
-| 16   | 15/2  | Hepple           | ~~[Vikki Houlden](https://environment.leeds.ac.uk/geography/staff/9618/dr-vikki-houlden)~~ Cancelled because of strikes        |                   |
-| 17   | 22/2  | Online only           |**Y1 PhD presentations:** [Mirah Zhang](https://twitter.com/MirahJZ): Connecting a Few Concepts in Spatial Causal Inference    |                   |
-| 18   | 1/3   | SR2           |   **Y2 PhD presentations:**  [Emerald Dilworth](https://research-information.bris.ac.uk/en/persons/emerald-dilworth) and [Sultan Alotaibi](https://research-information.bris.ac.uk/en/persons/sultan-jazi-s-alotaibi)   |                   |
-| 19   | 8/3   | SR2           | [Qunshan Zhao](https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/): Understand human behaviours by using mobile phone app data during the pandemic in Glasgow        |                   |
-| 20   | 15/3  | SR2              |  ~~**Y1 PhD presentations:** [Qingya Cheng](https://research-information.bris.ac.uk/en/persons/qingya-cheng)  and  [Sitong Guo](https://research-information.bris.ac.uk/en/persons/sitong-guo)~~   |                   |
-| 21   | 22/3  | SR2              |         |                   |
-| 22   | 19/4  | 35 BSQ HWB 2.25  | ~~[Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu)~~ Postponed for next year|                   |
-| 23   | 26/4  | 35 BSQ HWB 2.25  |   **Y1 PhD presentations:** [Genghao Zhang](https://research-information.bris.ac.uk/en/persons/genghao-zhang)  and  [Jiao Zhou](https://research-information.bris.ac.uk/en/persons/jiao-zhou)         |                   |
-| 24   | 3/5   | 35 BSQ HWB 2.25  | [Patrick Ballantyne](https://twitter.com/pj_ballantyne?lang=en): Mobility data: does it live up to the hype?        |                   |
-|    | 10/5   | PEEL  |The Johnston Lecture in Geography, [Ed Manley](https://environment.leeds.ac.uk/geography/staff/9293/professor-ed-manley): TBC        |                   |
-| 20   | 17/5  | SR2             |  **Y1 PhD presentations:** [Qingya Cheng](https://research-information.bris.ac.uk/en/persons/qingya-cheng)  and  [Sitong Guo](https://research-information.bris.ac.uk/en/persons/sitong-guo)   |                   |
+| 1    | 26/9   | SR2             | Welocme to QuSS! Coffee, tea and biscuits. |                   |
+| 2    | 3/10   | SR2             |                                            |                   |
+| 3    | 10/10  | SR2             |                                            |                   |
+| 4    | 17/10  | SR2             |                                            |                   |
+| 5    | 24/10  | SR2             |                                            |                   |
+| 6    | 31/10  | SR2             |                                            |                   |
+| 7    |  7/11  | SR2             |                                            |                   |
+| 8    | 14/11  | SR2             |                                            |                   |
+| 9    | 21/11  | SR2             |                                            |                   |
+| 10   | 28/11  | SR2             |                                            |                   |
+| 11   |  5/12  | SR2             |                                            |                   |
+| 12   | 12/12  | SR2             |                                            |                   |
+| JA1  |  9/1   | SR2             |                                            |                   |
+| JA2  | 16/1   | SR2             |                                            |                   |
+| 13    | 23/1  | SR2             |                                            |                   |
+| 14    | 30/1  | SR2             |                                            |                   |
+| 15    |  6/2  | SR2             |                                            |                   |
+| 16    | 13/2  | SR2             |                                            |                   |
+| 17    | 20/2  | SR2             |                                            |                   |
+| 18    | 27/2  | SR2             |                                            |                   |
+| 19    |  5/3  | SR2             |                                            |                   |
+| 20    | 12/3  | SR2             |                                            |                   |
+| 14    | 19/3  | SR2             |                                            |                   |
+| 15    | 16/4  | SR2             |                                            |                   |
+| 16    | 23/4  | SR2             |                                            |                   |
+| 17    | 30/4  | SR2             |                                            |                   |
+
+
 
