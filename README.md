@@ -39,17 +39,17 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 3    | 10/10  | SR2             |                                            |                   |
 | 4    | 17/10  | SR2             |                                            |                   |
 | 5    | 24/10  | SR2             | [Yanos Zylberberg](https://www.bristol.ac.uk/people/person/Yanos-Zylberberg-28c34bec-47ee-41bd-952c-7cd01df66934/): Cool cities: The value of urban trees |                   |
-| 6    | 31/10  | SR2             |                                            |                   |
+| 6    | 31/10  | SR2             | [Elisabetta Pietrostefani](https://www.liverpool.ac.uk/environmental-sciences/staff/elisabetta-pietrostefani/): TBC |                   |
 | 7    |  7/11  | SR2             |                                            |                   |
 | 8    | 14/11  | SR2             |                                            |                   |
 | 9    | 21/11  | SR2             |                                            |                   |
 | 10   | 28/11  | SR2             |                                            |                   |
-| 11   |  5/12  | SR2             |                                            |                   |
+| 11   |  5/12  | SR2             | [Yiyang Gao](https://www.linkedin.com/in/yiyang-gao-9abbbb127/?originalSubdomain=uk): TBC|                   |
 | 12   | 12/12  | SR2             |                                            |                   |
 | JA1  |  9/1   | SR2             |                                            |                   |
 | JA2  | 16/1   | SR2             |                                            |                   |
 | 13    | 23/1  | SR2             |                                            |                   |
-| 14    | 30/1  | SR2             |                                            |                   |
+| 14    | 30/1  | SR2             | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): TBC|                   |
 | 15    |  6/2  | SR2             |                                            |                   |
 | 16    | 13/2  | SR2             |                                            |                   |
 | 17    | 20/2  | SR2             |                                            |                   |
