@@ -37,7 +37,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 1    | 26/9   | SR2             | Welocme to QuSS! Coffee, tea and biscuits. |                   |
 | 2    | 3/10   | SR2             |                                            |                   |
 | 3    | 10/10  | SR2             | [Rui Zhu](https://research-information.bris.ac.uk/en/persons/rui-zhu): TBC|                   |
-| 4    | 17/10  | SR2             |                                            |                   |
+| 4    | 17/10  | SR2             | [Levi Wolf](https://www.ljwolf.org/): SuperQT: a new family of algorithms for local (clustering) regression|                   |
 | 5    | 24/10  | SR2             | [Yanos Zylberberg](https://www.bristol.ac.uk/people/person/Yanos-Zylberberg-28c34bec-47ee-41bd-952c-7cd01df66934/): Cool cities: The value of urban trees |                   |
 | 6    | 31/10  | SR2             | [Elisabetta Pietrostefani](https://www.liverpool.ac.uk/environmental-sciences/staff/elisabetta-pietrostefani/): TBC |                   |
 | 7    |  7/11  | SR2             |                                            |                   |
