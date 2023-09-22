@@ -34,7 +34,6 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 | Week | Date  | Room             | Speaker | QUSS Social event |
 |------|-------|------------------|---------|-------------------|
-| 1    | 26/9   | SR2             | 
 | 2    | 3/10   | SR2             | Welocme to QuSS! Coffee, tea and biscuits. |                   |
 | 3    | 10/10  | SR2             | [Rui Zhu](https://research-information.bris.ac.uk/en/persons/rui-zhu)|                   |
 | 4    | 17/10  | SR2             | [Levi Wolf](https://www.ljwolf.org/): SuperQT: a new family of algorithms for local (clustering) regression|                   |                                           |                   |
