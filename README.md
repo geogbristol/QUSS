@@ -39,7 +39,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 4    | 17/10  | SR2             | [Levi Wolf](https://www.ljwolf.org/): SuperQT: a new family of algorithms for local (clustering) regression|                   |                                           |                   |
 | 5    | 24/10  | SR2             | [Yanos Zylberberg](https://www.bristol.ac.uk/people/person/Yanos-Zylberberg-28c34bec-47ee-41bd-952c-7cd01df66934/): Cool cities: The value of urban trees |                   |
 | 6    | 31/10  | SR2             | [Elisabetta Pietrostefani](https://www.liverpool.ac.uk/environmental-sciences/staff/elisabetta-pietrostefani/): TBC |                   |
-| 7    |  7/11  | SR2             | [Lin Zhang](): TBC                                           |                   |
+| 7    |  7/11  | SR2             | [Lin Zhang](): TBC + Additional speaker: TBC                                          |                   |
 | 8    | 14/11  | SR2             | [Huanfa Chen](https://huanfachen.github.io/about.html): TBC|                   |
 | 9    | 21/11  | SR2             |                                            |                   |
 | 10   | 28/11  | SR2             |                                            |                   |
