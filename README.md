@@ -50,7 +50,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 13    | 23/1  | SR2             | [Sabrina Li](https://www.nottingham.ac.uk/geography/people/sabrina.li): TBC|                                           |                   
 | 14    | 30/1  | SR2             | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): TBC|                   |
 | 15    |  6/2  | SR2             |                                            |                   |
-| 16    | 13/2  | SR2             |  Emerald Dilworth: TBC|                   |
+| 16    | 13/2  | SR2             | [Emerald Dilworth](): TBC|                   |
 | 17    | 20/2  | SR2             |                                            |                   |
 | 18    | 27/2  | SR2             |                                            |                   |
 | 19    |  5/3  | SR2             |                                            |                   |
