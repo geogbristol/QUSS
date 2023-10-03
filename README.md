@@ -42,7 +42,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 7    |  7/11  | SR2             | [Lin Zhang](): TBC + Additional speaker: TBC                                          |                   |
 | 8    | 14/11  | SR2             | [Huanfa Chen](https://huanfachen.github.io/about.html): TBC|                   |
 | 9    | 21/11  | SR2             |                                            |                   |
-| 10   | 28/11  | SR2             |                                            |                   |
+| 10   | 28/11  | SR2             | [Luning Li](): TBC                                           |                   |
 | 11   |  5/12  | SR2             | [Yiyang Gao](https://www.linkedin.com/in/yiyang-gao-9abbbb127/?originalSubdomain=uk): TBC|                   |
 | 12   | 12/12  | SR2             |                                            |                   |
 | JA1  |  9/1   | SR2             |                                            |                   |
