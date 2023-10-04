@@ -44,13 +44,13 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 9    | 21/11  | SR2             | [Dan Milner](https://compass.blogs.bristol.ac.uk/author/dan-milner/): TBC                                   |                   |
 | 10   | 28/11  | SR2             | [Luning Li](): TBC                                           |                   |
 | 11   |  5/12  | SR2             | [Yiyang Gao](https://www.linkedin.com/in/yiyang-gao-9abbbb127/?originalSubdomain=uk): TBC|                   |
-| 12   | 12/12  | SR2             | [Joe Day](https://research-information.bris.ac.uk/en/persons/joe-day): What Women Want: Explaining Female Migration Choices between 1851 and 1911|            |
+| 12   | 12/12  | SR2             | [Joe Day](https://research-information.bris.ac.uk/en/persons/joe-day): What Women Want: Explaining Female Migration Choices between 1851 and 1911| Christmas social |
 | JA1  |  9/1   | SR2             |                                            |                   |
 | JA2  | 16/1   | SR2             |                                            |                   |
 | 13    | 23/1  | SR2             | [Sabrina Li](https://www.nottingham.ac.uk/geography/people/sabrina.li): TBC|                                           |                   
 | 14    | 30/1  | SR2             | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): TBC|                   |
 | 15    |  6/2  | SR2             |                                            |                   |
-| 16    | 13/2  | SR2             | [Emerald Dilworth](): TBC|                   |
+| 16    | 13/2  | SR2             | [Emerald Dilworth](): TBC|Chinese new year social|
 | 17    | 20/2  | SR2             |                                            |                   |
 | 18    | 27/2  | SR2             |                                            |                   |
 | 19    |  5/3  | SR2             |                                            |                   |
