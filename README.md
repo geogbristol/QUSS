@@ -53,7 +53,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 16    | 13/2  | SR2             | [Emerald Dilworth](): TBC|Chinese new year social|
 | 17    | 20/2  | SR2             |                                            |                   |
 | 18    | 27/2  | SR2             |                                            |                   |
-| 19    |  5/3  | SR2             |                                            |                   |
+| 19    |  6/3  | SR2             | [Shunya Kimura](): Exploring the use of consumer data to understand onling gambling behaviour. Joint seminar with Gambling Hub. Note this is on Wednesday not Tuesday!|                   |
 | 20    | 12/3  | SR2             |                                            |                   |
 | 14    | 19/3  | SR2             |                                            |                   |
 | 15    | 16/4  | SR2             |                                            |                   |
