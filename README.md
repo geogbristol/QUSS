@@ -40,7 +40,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 5    | 24/10  | SR2             | [Yanos Zylberberg](https://www.bristol.ac.uk/people/person/Yanos-Zylberberg-28c34bec-47ee-41bd-952c-7cd01df66934/): Cool cities: The value of urban trees |                   |
 | 6    | 31/10  | SR2             | [Elisabetta Pietrostefani](https://www.liverpool.ac.uk/environmental-sciences/staff/elisabetta-pietrostefani/): The Spatial Dynamics of Trust: the rally-round-the-flag effect in post-blast Beirut |                   |
 | 7    |  7/11  | SR2             | [Lin Zhang](): TBC + Additional speaker: TBC                                          |                   |
-| 8    | 14/11  | SR2             | [Huanfa Chen](https://huanfachen.github.io/about.html): TBC|                   |
+| 8    | 14/11  | SR2             | [Huanfa Chen](https://huanfachen.github.io/about.html): Exploring multi-objective spatial optimisation: model formulations and solution approaches|                   |
 | 9    | 21/11  | SR2             | [Dan Milner](https://compass.blogs.bristol.ac.uk/author/dan-milner/): TBC                                   |                   |
 | 10   | 28/11  | SR2             | [Luning Li](): TBC                                           |                   |
 | 11   |  5/12  | SR2             | [Yiyang Gao](https://www.linkedin.com/in/yiyang-gao-9abbbb127/?originalSubdomain=uk): TBC|                   |
