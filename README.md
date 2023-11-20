@@ -42,7 +42,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 7    |  7/11  | SR2             | [Lin Zhang](): TBC + Additional speaker: TBC                                          |                   |
 | 8    | 14/11  | SR2             | [Huanfa Chen](https://huanfachen.github.io/about.html): Exploring multi-objective spatial optimisation: model formulations and solution approaches|                   |
 | 9    | 21/11  | SR2             | [Dan Milner](https://compass.blogs.bristol.ac.uk/author/dan-milner/): TBC                                   |                   |
-| 10   | 28/11  | SR2             | [Luning Li](): TBC                                           |                   |
+| 10   | 28/11  | SR2             | [Emmanouil Tranos](https://etranos.info/): Digital economy in the UK: a multi-scalar story of the diffusion of web technologies |                   |
 | 11   |  5/12  | SR2             | [Yiyang Gao](https://www.linkedin.com/in/yiyang-gao-9abbbb127/?originalSubdomain=uk): TBC|                   |
 | 12   | 12/12  | SR2             | [Joe Day](https://research-information.bris.ac.uk/en/persons/joe-day): What Women Want: Explaining Female Migration Choices between 1851 and 1911| Christmas social |
 | JA1  |  9/1   | SR2             |                                            |                   |
