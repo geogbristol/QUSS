@@ -54,7 +54,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 17    | 20/2  | SR2             | [Ed Atkins](https://www.bristol.ac.uk/people/person/Ed-Atkins-b533f3f1-8d6f-4968-9568-abb9d958966c/): Green jobs research idea pitch |                   |
 | 18    | 27/2  | SR2             |                                          |                   |
 | 19    |  6/3  | SR2             | [Shunya Kimura](): Exploring the use of consumer data to understand onling gambling behaviour. Joint seminar with Gambling Hub. Note this is on Wednesday not Tuesday!|                   |
-| 20    | 12/3  | SR2             |                                            |                   |
+| 20    | 12/3  | SR2             | [Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi): Are adaptation challenges relevant to the location choices of internal migrants? Evidence from China |                   |
 | 14    | 19/3  | SR2             |                                            |                   |
 | 15    | 16/4  | SR2             |                                            |                   |
 | 16    | 23/4  | SR2             |                                            |                   |
