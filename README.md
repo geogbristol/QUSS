@@ -43,7 +43,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 8    | 14/11  | SR2             | [Huanfa Chen](https://huanfachen.github.io/about.html): Exploring multi-objective spatial optimisation: model formulations and solution approaches|                   |
 | 9    | 21/11  | SR2             | [Dan Milner](https://compass.blogs.bristol.ac.uk/author/dan-milner/): TBC                                   |                   |
 | 10   | 28/11  | SR2             | [Emmanouil Tranos](https://etranos.info/): [A multi-scalar story of the diffusion of a new technology: the web](https://etranos.info/post/gceg2022/web_diffusion.html#/) |                   |
-| 11   |  5/12  | SR2             | [Yiyang Gao](https://www.linkedin.com/in/yiyang-gao-9abbbb127/?originalSubdomain=uk): TBC|                   |
+| 11   |  5/12  | SR2             | [Yiyang Gao](https://www.linkedin.com/in/yiyang-gao-9abbbb127/?originalSubdomain=uk): Geographical variation in multi-group, multi-scale ethnic school segregation in England|                   |
 | 12   | 12/12  | SR2             | [Joe Day](https://research-information.bris.ac.uk/en/persons/joe-day): What Women Want: Explaining Female Migration Choices between 1851 and 1911| Christmas social |
 | JA1  |  9/1   | SR2             |                                            |                   |
 | JA2  | 16/1   | SR2             |                                            |                   |
@@ -51,7 +51,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 14    | 30/1  | SR2             | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): TBC|                   |
 | 15    |  6/2  | SR2             |                                            |                   |
 | 16    | 13/2  | SR2             |3rd year PhD students: [Emerald Dilworth](): TBC + [Joey Yiqiao Qi](): An intersectionality perspective on income inequality in Chinese labour market. |Chinese new year social|
-| 17    | 20/2  | SR2             |                                            |                   |
+| 17    | 20/2  | SR2             | [Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi): Are adaptation challenges relevant to the location choices of internal migrants? Evidence from China |                   |
 | 18    | 27/2  | SR2             |                                            |                   |
 | 19    |  6/3  | SR2             | [Shunya Kimura](): Exploring the use of consumer data to understand onling gambling behaviour. Joint seminar with Gambling Hub. Note this is on Wednesday not Tuesday!|                   |
 | 20    | 12/3  | SR2             |                                            |                   |
