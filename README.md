@@ -58,7 +58,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 14    | 19/3  | SR2             | [Levi Wolf](https://ljwolf.org/): GISRUK Keynote talk (dry run)                      |                   |
 | 15    | 16/4  | SR2             |                                            |                   |
 | 16    | 23/4  | SR2             |   Y2 PhD students: Jiao (Jade) Zhou, Genghao Zhang                                         |                   |
-| 17    | 30/4  | SR2             |   Y2 Ph students: Qingya Cheng,                                          |                   |
+| 17    | 30/4  | SR2             |   Y2 PhD students: Qingya Cheng, Sitong Guo                                     |                   |
 
 
 
