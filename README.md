@@ -56,7 +56,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 19    |  6/3  | SR2             | [Shunya Kimura](): Exploring the use of consumer data to understand onling gambling behaviour. Joint seminar with Gambling Hub. Note this is on Wednesday not Tuesday!|                   |
 | 20    | 12/3  | SR2             | [Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi): Are adaptation challenges relevant to the location choices of internal migrants? Evidence from China |                   |
 | 14    | 19/3  | SR2             | [Levi Wolf](https://ljwolf.org/): GISRUK Keynote talk (dry run)                      |                   |
-| 15    | 16/4  | SR2             |                                            |                   |
+| 15    | 16/4  | SR2             |  PhD students: Mark Thurstain-Goodwin,                                           |                   |
 | 16    | 23/4  | SR2             |   Y2 PhD students: Jiao (Jade) Zhou, Genghao Zhang                                         |                   |
 | 17    | 30/4  | SR2             |   Y2 PhD students: Qingya Cheng, Sitong Guo                                     |                   |
 
