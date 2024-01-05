@@ -52,7 +52,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 15    |  6/2  | SR2             | [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson): TBC                                           |                   |
 | 16    | 13/2  | SR2             |Y3 PhD students: [Emerald Dilworth](): TBC + [Joey Yiqiao Qi](): An intersectionality perspective on income inequality in Chinese labour market. |Chinese new year social|
 | 17    | 20/2  | SR2             | [Ed Atkins](https://www.bristol.ac.uk/people/person/Ed-Atkins-b533f3f1-8d6f-4968-9568-abb9d958966c/): Green jobs research idea pitch |                   |
-| 18    | 27/2  | SR2             |    Y2 PhD students: Jing (Mirah) Zhang,                                      |                   |
+| 18    | 27/2  | SR2             |    Y2 PhD students: Jing (Mirah) Zhang,  Yigong Hu                                    |                   |
 | 19    |  6/3  | SR2             | [Shunya Kimura](): Exploring the use of consumer data to understand onling gambling behaviour. Joint seminar with Gambling Hub. Note this is on Wednesday not Tuesday!|                   |
 | 20    | 12/3  | SR2             | [Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi): Are adaptation challenges relevant to the location choices of internal migrants? Evidence from China |                   |
 | 14    | 19/3  | SR2             | [Levi Wolf](https://ljwolf.org/): GISRUK Keynote talk (dry run)                      |                   |
