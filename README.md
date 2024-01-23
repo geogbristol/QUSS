@@ -49,7 +49,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | JA2  | 16/1   | SR2             |                                            |                   |
 | 13    | 23/1  | SR2             | [Sabrina Li](https://www.nottingham.ac.uk/geography/people/sabrina.li): Race, Place, and Pandemic: A Spatial Analysis of COVID-19 Health Inequalities in Brazil|                                           |                   
 | 14    | 30/1  | SR2             | [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): Defining left behind places: an internationally comparative poset analysis|             Dr. Giulia Occhini's viva celebration     |
-| 15    |  6/2  | SR2             | [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson): TBC                                           |                   |
+| 15    |  6/2  | SR2             | [Federico Botta](https://computerscience.exeter.ac.uk/staff/fb394?sm=fb394): TBC                                           |                   |
 | 16    | 13/2  | SR2             |Y3 PhD students: [Emerald Dilworth](): TBC + [Joey Yiqiao Qi](): An intersectionality perspective on income inequality in Chinese labour market. |Chinese New Year and Lunar New Year social|
 | 17    | 20/2  | SR2             | [Ed Atkins](https://www.bristol.ac.uk/people/person/Ed-Atkins-b533f3f1-8d6f-4968-9568-abb9d958966c/): Green jobs research idea pitch |                   |
 | 18    | 27/2  | SR2             |    Y2 PhD students: Jing (Mirah) Zhang,  Yigong Hu                                    |                   |
