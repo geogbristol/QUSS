@@ -55,7 +55,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 18    | 27/2  | SR2             |    Y2 PhD students: Jing (Mirah) Zhang,  Yigong Hu                                    |                   |
 | 19    |  6/3  | SR2             | [Shunya Kimura](https://www.ucl.ac.uk/geography/shunya-kimura): Exploring the use of consumer data to understand onling gambling behaviour. Joint seminar with Gambling Hub. Note this is on Wednesday not Tuesday!|                   |
 | 20    | 12/3  | SR2             | [Levi Wolf](https://ljwolf.org/): GISRUK Keynote talk (dry run)                      |    QUSS pub trip               |
-| 14    | 19/3  | SR2             | [Monika Kuffer](https://people.utwente.nl/m.kuffer): TBC                    |                   |
+| 14    | 19/3  | SR2             | [Monika Kuffer](https://people.utwente.nl/m.kuffer): Combining Citizen Science and Earth Observation to Capture Environmental Inequalities – Example of Thermal Inequalities |                   |
 | 15    | 9/4   | SR2             | [Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi): Are adaptation challenges relevant to the location choices of internal migrants? Evidence from China |                   |
 | 16    | 16/4  | SR2             | Y2 PhD student: Mark Thurstain-Goodwin,  Y1 PhD student: Yijing Zhang                                         |     QUSS pub trip         |
 | 17    | 23/4  | SR2             | Y2 PhD students: Jiao (Jade) Zhou, Genghao Zhang                                         |                   |
