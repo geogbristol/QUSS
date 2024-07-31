@@ -6,7 +6,7 @@ We meet for an hour once a week during academic year to discuss what's new in th
 
 ## When do we meet?
 
-Tuesdays 13.00-14.00 during the 2023-24 academic year.
+Wednesdays 13.00-14.00 during the 2024-25 academic year.
 
 ## Joining online
 
@@ -32,34 +32,40 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 ## Schedule
 
-| Week | Date  | Room             | Speaker | QUSS Social event |
-|------|-------|------------------|---------|-------------------|
-| 2    | 3/10   | SR2             | Welcome to QuSS! Coffee, tea and biscuits. |                   |
-| 3    | 10/10  | SR2             | [Rui Zhu](https://research-information.bris.ac.uk/en/persons/rui-zhu): Knowledge Graphs and GeoAI: Uniting Symbolic and Subsymbolic Traditions|                   |
-| 4    | 17/10  | SR2             | [Levi Wolf](https://www.ljwolf.org/): SuperQT: a new family of algorithms for local (clustering) regression|                   |                                           |                   |
-| 5    | 24/10  | SR2             | [Yanos Zylberberg](https://www.bristol.ac.uk/people/person/Yanos-Zylberberg-28c34bec-47ee-41bd-952c-7cd01df66934/): Cool cities: The value of urban trees |                   |
-| 6    | 31/10  | SR2             | [Elisabetta Pietrostefani](https://www.liverpool.ac.uk/environmental-sciences/staff/elisabetta-pietrostefani/): The Spatial Dynamics of Trust: the rally-round-the-flag effect in post-blast Beirut |                   |
-| 7    |  7/11  | SR2             | [Lin Zhang](): TBC + Additional speaker: TBC                                          |                   |
-| 8    | 14/11  | SR2             | [Huanfa Chen](https://huanfachen.github.io/about.html): Exploring multi-objective spatial optimisation: model formulations and solution approaches|                   |
-| 9    | 21/11  | SR2             | [Dan Milner](https://compass.blogs.bristol.ac.uk/author/dan-milner/): TBC                                   |                   |
-| 10   | 28/11  | SR2             | [Emmanouil Tranos](https://etranos.info/): [A multi-scalar story of the diffusion of a new technology: the web](https://etranos.info/post/gceg2022/web_diffusion.html#/) |                   |
-| 11   |  5/12  | SR2             | [Yiyang Gao](https://www.linkedin.com/in/yiyang-gao-9abbbb127/?originalSubdomain=uk): Geographical variation in multi-group, multi-scale ethnic school segregation in England|                   |
-| 12   | 12/12  | SR2             | [Joe Day](https://research-information.bris.ac.uk/en/persons/joe-day): What Women Want: Explaining Female Migration Choices between 1851 and 1911| Christmas social |
-| JA1  |  9/1   | SR2             |                                            |                   |
-| JA2  | 16/1   | SR2             |                                            |                   |
-| 13    | 23/1  | SR2             | [Sabrina Li](https://www.nottingham.ac.uk/geography/people/sabrina.li): Race, Place, and Pandemic: A Spatial Analysis of COVID-19 Health Inequalities in Brazil|                                           |                   
-| 14    | 30/1  | SR2             | (Postponed due to strikes) [Maria Abreu](https://www.landecon.cam.ac.uk/directory/dr-maria-abreu): Defining left behind places: an internationally comparative poset analysis|             Dr. Giulia Occhini's viva celebration     |
-| 15    |  6/2  | SR2             | [Federico Botta](https://computerscience.exeter.ac.uk/staff/fb394?sm=fb394): Studying cities and people using digital footprints |                   |
-| 16    | 13/2  | SR2             |Y3 PhD student: [Emerald Dilworth](): (1) What can CommonCrawl data tell us about the Twin Transition (2) Detecting Node-wise Changes in Networks  ||
-| 17    | 20/2  | SR2             | [Ed Atkins](https://www.bristol.ac.uk/people/person/Ed-Atkins-b533f3f1-8d6f-4968-9568-abb9d958966c/): Green jobs research idea pitch | Chinese New Year and Lunar New Year social                  |
-| 18    | 27/2  | SR2             |    Y2 PhD student: [Jing (Mirah) Zhang](https://github.com/Mirah-JZ): Estimating dynamic hedonic house price model with spatial matching,Y3 PhD student:   [Yigong Hu](https://github.com/HPDell)                                    |                   |
-| 19    |  6/3  | SR2             | [Shunya Kimura](https://www.ucl.ac.uk/geography/shunya-kimura): Exploring the use of consumer data to understand onling gambling behaviour. Joint seminar with Gambling Hub. Note this is on Wednesday not Tuesday!|                   |
-| 20    | 12/3  | SR2             | [Levi Wolf](https://ljwolf.org/): GISRUK Keynote talk (dry run)                      |    QUSS pub trip               |
-| 14    | 19/3  | SR2             | [Monika Kuffer](https://people.utwente.nl/m.kuffer): Combining Citizen Science and Earth Observation to Capture Environmental Inequalities – Example of Thermal Inequalities |                   |
-| 15    | 9/4   | SR2             | [Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi): Are adaptation challenges relevant to the location choices of internal migrants? Evidence from China |                   |
-| 16    | 16/4  | Peel             | Y2 PhD student: ~~Mark Thurstain-Goodwin~~,  Y1 PhD student: Yijing Zhang                                         |     QUSS pub trip         |
-| 17    | 23/4  | Peel             | Y2 PhD students: Jiao (Jade) Zhou, Genghao Zhang                                         |                   |
-| 18    | 30/4  | Peel             | Y2 PhD students: Qingya Cheng, Sitong Guo                                     |                   |
-
-
-
+| Week            | Date       | Room | Speaker          | 
+|-----------------|------------|------|------------------|
+| 1               | 18/09/2024 |      | Welcome to QuSS! |
+| 2               | 25/09/2024 |      |                  |
+| 3               | 02/10/2024 |      |                  |
+| 4               | 09/10/2024 |      |                  |
+| 5               | 16/10/2024 |      |                  |
+| 6               | 23/10/2024 |      |                  |
+| 7               | 30/10/2024 |      |                  |
+| 8               | 06/11/2024 |      |                  |
+| 9               | 13/11/2024 |      |                  |
+| 10              | 20/11/2024 |      |                  |
+| 11              | 27/11/2024 |      |                  |
+| 12              | 04/12/2024 |      |                  |
+| TB1 AP          | 11/12/2024 |      |                  |
+| Winter holidays | 18/12/2024 |      |                  |
+| Winter holidays | 25/12/2024 |      |                  |
+| Winter holidays | 01/01/2025 |      |                  |
+| Winter holidays | 08/01/2025 |      |                  |
+| 1               | 15/01/2025 |      |                  |
+| 2               | 22/01/2025 |      |                  |
+| 3               | 29/01/2025 |      |                  |
+| 4               | 05/02/2025 |      |                  |
+| 5               | 12/02/2025 |      |                  |
+| 6               | 19/02/2025 |      |                  |
+| 7               | 26/02/2025 |      |                  |
+| 8               | 05/03/2025 |      |                  |
+| 9               | 12/03/2025 |      |                  |
+| 10              | 19/03/2025 |      |                  |
+| 11              | 26/03/2025 |      |                  |
+| 12              | 02/04/2025 |      |                  |
+| Spring vacation | 09/04/2025 |      |                  |
+| Spring vacation | 16/04/2025 |      |                  |
+| Spring vacation | 23/04/2025 |      |                  |
+| TB2 AP          | 30/04/2025 |      |                  |
+| TB2 AP          | 07/05/2025 |      |                  |
+| TB2 AP          | 14/05/2025 |      |                  |
