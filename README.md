@@ -39,7 +39,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 3               | 02/10/2024 |      |                  |
 | 4               | 09/10/2024 |      |[Anya Skatova]( https://research-information.bris.ac.uk/en/persons/anya-skatova), Title TBC|
 | 5               | 16/10/2024 |      |[Trivik Verma](https://trivikverma.com/), Title TBC|
-| 6               | 23/10/2024 |      |                  |
+| 6               | 23/10/2024 |      |[Giulia Occhini](https://www.languagesciences.cam.ac.uk/staff/dr-giulia-occhini), Title TBC                  |
 | 7               | 30/10/2024 |      |                  |
 | 8               | 06/11/2024 |      |                  |
 | 9               | 13/11/2024 |      |                  |
