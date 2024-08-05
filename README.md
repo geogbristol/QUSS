@@ -38,7 +38,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 2               | 25/09/2024 |      |                  |
 | 3               | 02/10/2024 |      |                  |
 | 4               | 09/10/2024 |      |                  |
-| 5               | 16/10/2024 |      |[Trivik Verma](https://trivikverma.com/), University of Bristol, (Tbc)|
+| 5               | 16/10/2024 |      |[Trivik Verma](https://trivikverma.com/), Title TBC|
 | 6               | 23/10/2024 |      |                  |
 | 7               | 30/10/2024 |      |                  |
 | 8               | 06/11/2024 |      |                  |
