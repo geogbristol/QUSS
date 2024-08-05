@@ -37,7 +37,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 1               | 18/09/2024 |      | Welcome to QuSS! |
 | 2               | 25/09/2024 |      |                  |
 | 3               | 02/10/2024 |      |                  |
-| 4               | 09/10/2024 |      |                  |
+| 4               | 09/10/2024 |      |[Anya Skatova]( https://research-information.bris.ac.uk/en/persons/anya-skatova), Title TBC|
 | 5               | 16/10/2024 |      |[Trivik Verma](https://trivikverma.com/), Title TBC|
 | 6               | 23/10/2024 |      |                  |
 | 7               | 30/10/2024 |      |                  |
