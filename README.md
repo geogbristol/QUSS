@@ -72,4 +72,4 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Spring vacation | 23/04/2025 |      |                  |
 | TB2 AP          | 30/04/2025 |      |                  |
 | TB2 AP          | 07/05/2025 |      |                  |
-| TB2 AP          | 14/05/2025 |      |                  |
+| TB2 AP          | 14/05/2025 |      |Cait Robinson, Title TBC                  | 
