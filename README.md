@@ -6,7 +6,11 @@ We meet for an hour once a week during academic year to discuss what's new in th
 
 ## When do we meet?
 
-Wednesdays 13.00-14.00 during the 2024-25 academic year.
+During 2024/25, the times for our seminars will vary slightly. Please be sure to check the timing for each week. We will hold seminars on:
+
+Mondays 12.00-13.00
+OR
+Wednesdays 13.00-14.00 
 
 ## Joining online
 
@@ -34,13 +38,13 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 | Week            | Date       | Room | Speaker          | 
 |-----------------|------------|------|------------------|
-| 1               | 16/09/2024 (Monday seminar) |      | Welcome to QuSS! |
-| 2               | 23/09/2024 (Monday seminar) |      |                  |
-| 3               | 30/09/2024 (Monday seminar) |      |[Becky Collins](https://research-information.bris.ac.uk/en/persons/becky-collins), Get to the Point!!! Laser scanning for understanding river bank erosion|
-| 4               | 09/10/2024 (Wednesday seminar)|      |[Anya Skatova]( https://research-information.bris.ac.uk/en/persons/anya-skatova), Title TBC|
-| 5               | 16/10/2024 (Wednesday seminar)|      |[Trivik Verma](https://trivikverma.com/), Title TBC|
-| 6               | 23/10/2024 (Wednesday seminar)|      |[Giulia Occhini](https://www.languagesciences.cam.ac.uk/staff/dr-giulia-occhini), Title TBC                  |
-| 7               | 30/10/2024 |      |                  |
+| 1               | 16/09/2024 (Monday seminar 12:00 - 13:00) |      | Welcome to QuSS! |
+| 2               | 23/09/2024 (Monday seminar 12:00 - 13:00) |      |                  |
+| 3               | 30/09/2024 (Monday seminar 12:00 - 13:00) |      |[Becky Collins](https://research-information.bris.ac.uk/en/persons/becky-collins), Get to the Point!!! Laser scanning for understanding river bank erosion|
+| 4               | 09/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Anya Skatova]( https://research-information.bris.ac.uk/en/persons/anya-skatova), Title TBC|
+| 5               | 16/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Trivik Verma](https://trivikverma.com/), Title TBC|
+| 6               | 23/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Group discussion about online Spatial Data Science Symposium led by Rui Zhu](http://sdss2024.spatial-data-science.net/index.html)|
+| 7               | 30/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Giulia Occhini](https://www.languagesciences.cam.ac.uk/staff/dr-giulia-occhini), Title TBC                  |
 | 8               | 06/11/2024 |      |                  |
 | 9               | 13/11/2024 |      |                  |
 | 10              | 20/11/2024 |      |                  |
