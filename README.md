@@ -45,31 +45,31 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 5               | 16/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Trivik Verma](https://trivikverma.com/), Title TBC|
 | 6               | 23/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Group discussion about online Spatial Data Science Symposium](http://sdss2024.spatial-data-science.net/index.html) led by Rui Zhu|
 | 7               | 30/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Giulia Occhini](https://www.languagesciences.cam.ac.uk/staff/dr-giulia-occhini), Title TBC                  |
-| 8               | 06/11/2024 |      |                  |
-| 9               | 13/11/2024 |      |                  |
-| 10              | 20/11/2024 |      |                  |
-| 11              | 27/11/2024 |      |                  |
-| 12              | 04/12/2024 |      |                  |
-| TB1 AP          | 11/12/2024 |      |                  |
-| Winter holidays | 18/12/2024 |      |                  |
-| Winter holidays | 25/12/2024 |      |                  |
-| Winter holidays | 01/01/2025 |      |                  |
-| Winter holidays | 08/01/2025 |      |                  |
-| 1               | 15/01/2025 |      |                  |
-| 2               | 22/01/2025 |      |                  |
-| 3               | 29/01/2025 |      |                  |
-| 4               | 05/02/2025 |      |                  |
-| 5               | 12/02/2025 |      |                  |
-| 6               | 19/02/2025 |      |                  |
-| 7               | 26/02/2025 |      |                  |
-| 8               | 05/03/2025 |      |                  |
-| 9               | 12/03/2025 |      |                  |
-| 10              | 19/03/2025 |      |                  |
-| 11              | 26/03/2025 |      |                  |
-| 12              | 02/04/2025 |      |                  |
-| Spring vacation | 09/04/2025 |      |                  |
-| Spring vacation | 16/04/2025 |      |                  |
-| Spring vacation | 23/04/2025 |      |                  |
-| TB2 AP          | 30/04/2025 |      |                  |
-| TB2 AP          | 07/05/2025 |      |                  |
-| TB2 AP          | 14/05/2025 |      |Cait Robinson, Title TBC                  | 
+| 8               | 04/11/2024 |      |                  |
+| 9               | 11/11/2024 |      |                  |
+| 10              | 18/11/2024 |      |                  |
+| 11              | 25/11/2024 |      |                  |
+| 12              | 2/12/2024 |      |                  |
+| TB1 AP          | 9/12/2024 |      |                  |
+| Winter holidays | 16/12/2024 |      |                  |
+| Winter holidays | 23/12/2024 |      |                  |
+| Winter holidays | 30/01/2025 |      |                  |
+| Winter holidays | 6/01/2025 |      |                  |
+| 1               | 13/01/2025 |      |                  |
+| 2               | 20/01/2025 |      |                  |
+| 3               | 27/01/2025 |      |                  |
+| 4               | 3/02/2025 |      |                  |
+| 5               | 10/02/2025 |      |                  |
+| 6               | 17/02/2025 |      |                  |
+| 7               | 24/02/2025 |      |                  |
+| 8               | 3/03/2025 |      |                  |
+| 9               | 10/03/2025 |      |                  |
+| 10              | 17/03/2025 |      |                  |
+| 11              | 24/03/2025 |      |                  |
+| 12              | 31/03/2025 |      |                  |
+| Spring vacation | 7/04/2025 |      |                  |
+| Spring vacation | 14/04/2025 |      |                  |
+| Spring vacation | 21/04/2025 |      |                  |
+| TB2 AP          | 28/04/2025 |      |                  |
+| TB2 AP          | 05/05/2025 |      |                  |
+| TB2 AP          | 12/05/2025 |      |Cait Robinson, Title TBC                  | 
