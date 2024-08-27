@@ -45,7 +45,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 5               | 16/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Trivik Verma](https://trivikverma.com/), Title TBC|
 | 6               | 23/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Group discussion about online Spatial Data Science Symposium](http://sdss2024.spatial-data-science.net/index.html) led by Rui Zhu|
 | 7               | 30/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Giulia Occhini](https://www.languagesciences.cam.ac.uk/staff/dr-giulia-occhini), Title TBC                  |
-| 8               | 04/11/2024 |      | Binbin Lu, Title TBC |
+| 8               | 04/11/2024 |      | [Binbin Lu](https://orcid.org/0000-0001-7847-7560), Title TBC |
 | 9               | 11/11/2024 |      |                  |
 | 10              | 18/11/2024 |      |                  |
 | 11              | 25/11/2024 |      |                  |
