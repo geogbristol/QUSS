@@ -45,11 +45,11 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 5               | 16/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Trivik Verma](https://trivikverma.com/), Title TBC|
 | 6               | 23/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Group discussion about online Spatial Data Science Symposium](http://sdss2024.spatial-data-science.net/index.html) led by Rui Zhu|
 | 7               | 30/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Giulia Occhini](https://www.languagesciences.cam.ac.uk/staff/dr-giulia-occhini), Title TBC                  |
-| 8               | 04/11/2024 |      | [Binbin Lu](https://orcid.org/0000-0001-7847-7560), Title TBC |
-| 9               | 11/11/2024 |      |       [Mirah Jing Zhang](https://github.com/Mirah-JZ), Understanding spatial causal process from a mutual information decomposition point of view          |
-| 10              | 18/11/2024 |      |                  |
-| 11              | 25/11/2024 |      |                  |
-| 12              | 2/12/2024 |      |                  |
+| 8               | 04/11/2024 (Monday seminar 12:00 - 13:00)|      | [Binbin Lu](https://orcid.org/0000-0001-7847-7560), Title TBC |
+| 9               | 11/11/2024 (Monday seminar 12:00 - 13:00)|      |       [Mirah Jing Zhang](https://github.com/Mirah-JZ), Understanding spatial causal process from a mutual information decomposition point of view          |
+| 10              | 18/11/2024 (Monday seminar 12:00 - 13:00)|      |                  |
+| 11              | 25/11/2024 (Monday seminar 12:00 - 13:00)|      |                  |
+| 12              | 2/12/2024 (Monday seminar 12:00 - 13:00)|      |                  |
 | TB1 AP          | 9/12/2024 |      |                  |
 | Winter holidays | 16/12/2024 |      |                  |
 | Winter holidays | 23/12/2024 |      |                  |
