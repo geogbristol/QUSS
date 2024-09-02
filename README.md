@@ -47,8 +47,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 7               | 30/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Giulia Occhini](https://www.languagesciences.cam.ac.uk/staff/dr-giulia-occhini), Title TBC                  |
 | 8               | 04/11/2024 (Monday seminar 12:00 - 13:00)|      | [Binbin Lu](https://orcid.org/0000-0001-7847-7560), Title TBC |
 | 9               | 11/11/2024 (Monday seminar 12:00 - 13:00)|      |       [Mirah Jing Zhang](https://github.com/Mirah-JZ), Understanding spatial causal process from a mutual information decomposition point of view          |
-| 10              | 18/11/2024 (Monday seminar 12:00 - 13:00)|      |                  |
-| 11              | 25/11/2024 (Monday seminar 12:00 - 13:00)|      |                  |
+| 10              | 18/11/2024 (Monday seminar 12:00 - 13:00)|      ||
+| 11              | 25/11/2024 (Monday seminar 12:00 - 13:00)|      |[Winnie Wang](), Title TBC    |
 | 12              | 2/12/2024 (Monday seminar 12:00 - 13:00)|      |                  |
 | TB1 AP          | 9/12/2024 |      |                  |
 | Winter holidays | 16/12/2024 |      |                  |
