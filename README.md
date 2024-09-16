@@ -8,9 +8,9 @@ We meet for an hour once a week during academic year to discuss what's new in th
 
 During 2024/25, the times for our seminars will vary slightly. Please be sure to check the timing for each week. We will hold seminars on:
 
-Mondays 12.00-13.00
+Mondays 12.00-13.00 (Geography SR2)
 OR
-Wednesdays 13.00-14.00 
+Wednesdays 13.00-14.00 (Fry G13)
 
 ## Joining online
 
