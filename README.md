@@ -49,7 +49,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 9               | 11/11/2024 (Monday seminar 12:00 - 13:00)|      |       [Mirah Jing Zhang](https://github.com/Mirah-JZ), Understanding spatial causal process from a mutual information decomposition point of view          |
 | 10              | 18/11/2024 (Monday seminar 12:00 - 13:00)|      |[Joe Day](https://research-information.bris.ac.uk/en/persons/joe-day), Back to the Future: How Railways Distorted Time and Space, 1851-1911|
 | 11              | 25/11/2024 (Monday seminar 12:00 - 13:00)|      |[Winnie Wang](), Title TBC    |
-| 12              | 2/12/2024 (Monday seminar 12:00 - 13:00)|      |                  |
+| 12              | 2/12/2024 (Monday seminar 12:00 - 13:00, ONLINE)|      |[Nicholas Szende](https://geographie-cites.cnrs.fr/membres/nicolas-szende/), Title TBC   |
 | TB1 AP          | 9/12/2024 |      |                  |
 | Winter holidays | 16/12/2024 |      |                  |
 | Winter holidays | 23/12/2024 |      |                  |
