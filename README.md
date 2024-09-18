@@ -46,7 +46,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 6               | 23/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Group discussion about online Spatial Data Science Symposium](http://sdss2024.spatial-data-science.net/index.html) led by Rui Zhu|
 | 7               | 30/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Giulia Occhini](https://www.languagesciences.cam.ac.uk/staff/dr-giulia-occhini), Title TBC                  |
 | 8               | 04/11/2024 (Monday seminar 12:00 - 13:00)|      | [Binbin Lu](https://orcid.org/0000-0001-7847-7560), Title TBC |
-| 9               | 11/11/2024 (Monday seminar 12:00 - 13:00)|      |   Student presentation.     |
+| 9               | 11/11/2024 (Monday seminar 12:00 - 13:00)|      |   Yang Tian Zhen Zhao, on Population Growth Patterns in China.     |
 | 10              | 18/11/2024 (Monday seminar 12:00 - 13:00)|      |[Joe Day](https://research-information.bris.ac.uk/en/persons/joe-day), Back to the Future: How Railways Distorted Time and Space, 1851-1911|
 | 11              | 25/11/2024 (Monday seminar 12:00 - 13:00)|     |[Winnie Wang](), Title TBC    |
 | 12              | 2/12/2024 (Monday seminar 12:00 - 13:00, ONLINE)|      |[Nicholas Szende](https://geographie-cites.cnrs.fr/membres/nicolas-szende/), Title TBC   |
