@@ -56,7 +56,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays | 30/01/2025 |      |                  |
 | Winter holidays | 6/01/2025 |      |                  |
 | 1               | 13/01/2025 |      |                  |
-| 2               | 20/01/2025 |      |                  |
+| 2               | 20/01/2025 |      | How to peer review? |
 | 3               | 27/01/2025 |      |                  |
 | 4               | 3/02/2025 |      |                  |
 | 5               | 10/02/2025 |      |                  |
