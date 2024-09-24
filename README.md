@@ -39,7 +39,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Week            | Date       | Room | Speaker          | 
 |-----------------|------------|------|------------------|
 | 1               | 16/09/2024 (Monday seminar 12:00 - 13:00) |      | Welcome to QuSS! |
-| 2               | 23/09/2024 (Monday seminar 12:00 - 13:00) |      |[Rich Harris](https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/), [POSTPONED]|
+| 2               | 23/09/2024 (Monday seminar 12:00 - 13:00) |      | SEMINAR POSTPONED|
 | 3               | 30/09/2024 (Monday seminar 12:00 - 13:00) |      |[Becky Collins](https://research-information.bris.ac.uk/en/persons/becky-collins), Get to the Point!!! Laser scanning for understanding river bank erosion|
 | 4               | 09/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Anya Skatova]( https://research-information.bris.ac.uk/en/persons/anya-skatova), Title TBC|
 | 5               | 16/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Trivik Verma](https://trivikverma.com/), Title TBC|
@@ -56,7 +56,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays | 23/12/2024 |      |                  |
 | Winter holidays | 30/01/2025 |      |                  |
 | Winter holidays | 6/01/2025 |      |                  |
-| 1               | 13/01/2025 |      |                  |
+| 1               | 13/01/2025 |      | [Rich Harris](https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/)|
 | 2               | 20/01/2025 |      | How to peer review? |
 | 3               | 27/01/2025 |      |                  |
 | 4               | 3/02/2025 |      |                  |
