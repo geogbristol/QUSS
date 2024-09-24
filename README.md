@@ -14,7 +14,7 @@ Wednesdays 13.00-14.00 (Fry G13)
 
 ## Joining online
 
-Here is the [Zoom link](https://bristol-ac-uk.zoom.us/j/98103670328?pwd=VllwYTh5WGZ2S0Y2U2l2MHNGd1BBdz09) to join online if needed.
+Here is the [Zoom link](https://bristol-ac-uk.zoom.us/j/92344645473) to join online if needed.
 
 ## Where do we meet?
 
