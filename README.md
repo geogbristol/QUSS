@@ -24,9 +24,9 @@ See the below table.
 
 1.  Research presentations of fully or partially developed paper from internal and external speakers.
 
-2.  PhD student presentations. 1st year and 2nd year PhD students are required to give a 30 min presentation on their research introduction and progress. Each student has 20-25 min presentation followed by 5-10 min for questions. Third- or fourth-year students are not required to do this, but should feel free to arrange a slot to present about their research. First year students are strongly encouraged to present in TB1. This is a great opportunity for new students to introduce themselves and their research interests in a very relaxed environment, and to feel ready to kick off their PhD journey. 
+2.  PhD student presentations. 1st year and 2nd year PhD students are required to give a 30 min presentation on their research introduction and progress. Each student has 20-25 min presentation followed by 5-10 min for questions. Third- or fourth-year students are not required to do this, but should feel free to arrange a slot to present about their research. irst year students are strongly encouraged to present in TB1. This is a great opportunity for new students to introduce themselves and their research interests in a relaxed environment. It is also the opportunity for everyone on the research group to extend their welcome to the new studens and to help them feel ready to kick off their PhD journey. 
 
-3.  Discussion sessions based on readings. Before this session, we provide you with reading 1 or 2 articles related to a specific topic, a new idea or an emerging issue. On the session then we give 10 min overview on the reading and facilitate discussion.
+4.  Discussion sessions based on readings. Before this session, we provide you with reading 1 or 2 articles related to a specific topic, a new idea or an emerging issue. On the session then we give 10 min overview on the reading and facilitate discussion.
 
 Bellow you can find schedule for this academic year.
 
