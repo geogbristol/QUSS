@@ -51,7 +51,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 11              | 25/11/2024 (Monday seminar 12:00 - 13:00)|     |[Winnie Wang](), Title TBC    |
 | 12              | 2/12/2024 (Monday seminar 12:00 - 13:00, ONLINE)|      |[Nicholas Szende](https://geographie-cites.cnrs.fr/membres/nicolas-szende/), Title TBC   |
 | TB1 AP          | 9/12/2024 |     |               Bo Yi Li, Yi Fan Liang (Y1 students).    |
-| EXTRA SEMINAR | 10/12/2024 |     | [Joint with States Economies and Societies Research Group] Ed Atkins and Tom Cantellow, Developing a Net Zero Vulnerability Index for England and Wales |
+| EXTRA SEMINAR | 10/12/2024 |     | [Joint with States Economies and Societies Research Group] [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), Developing a Net Zero Vulnerability Index for England and Wales |
 | Winter holidays | 16/12/2024 |      |                  |
 | Winter holidays | 23/12/2024 |      |                  |
 | Winter holidays | 30/01/2025 |      |                  |
