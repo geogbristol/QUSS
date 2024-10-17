@@ -41,8 +41,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 1               | 16/09/2024 (Monday seminar 12:00 - 13:00) |      | Welcome to QuSS! |
 | 2               | 23/09/2024 (Monday seminar 12:00 - 13:00) |      | SEMINAR POSTPONED|
 | 3               | 30/09/2024 (Monday seminar 12:00 - 13:00) |      |[Becky Collins](https://research-information.bris.ac.uk/en/persons/becky-collins), Get to the Point!!! Laser scanning for understanding river bank erosion|
-| 4               | 09/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Anya Skatova]( https://research-information.bris.ac.uk/en/persons/anya-skatova), Title TBC|
-| 5               | 16/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Trivik Verma](https://trivikverma.com/), Title TBC|
+| 4               | 09/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Anya Skatova]( https://research-information.bris.ac.uk/en/persons/anya-skatova), What can your shopping basket say about your health? |
+| 5               | 16/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Trivik Verma](https://trivikverma.com/), Rethinking spatial governance for spatial justice|
 | 6               | 23/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Group discussion about online Spatial Data Science Symposium](http://sdss2024.spatial-data-science.net/index.html) led by Rui Zhu|
 | 7               | 30/10/2024 (Wednesday seminar 13:00 - 14:00)|      |[Giulia Occhini](https://www.languagesciences.cam.ac.uk/staff/dr-giulia-occhini), Title TBC                  |
 | 8               | 04/11/2024 (Monday seminar 12:00 - 13:00)|      | [Binbin Lu](https://orcid.org/0000-0001-7847-7560), Title TBC |
