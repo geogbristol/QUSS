@@ -50,7 +50,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 10              | 18/11/2024 (Monday seminar 12:00 - 13:00)|      |[Joe Day](https://research-information.bris.ac.uk/en/persons/joe-day), Back to the Future: How Railways Distorted Time and Space, 1851-1911|
 | 11              | 25/11/2024 (Monday seminar 12:00 - 13:00)|     |[Winnie Wang](), Title TBC    |
 | 12              | 2/12/2024 (Monday seminar 12:00 - 13:00, ONLINE)|      |[Nicholas Szende](https://geographie-cites.cnrs.fr/membres/nicolas-szende/), Title TBC   |
-| TB1 AP          | 9/12/2024 |     |               Yifan Liang (Y1 student) Introductory presentation.    |
+| TB1 AP          | 9/12/2024 |     |                  |
 | EXTRA SEMINAR | 10/12/2024 |     | [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins) and [Tom Cantellow](https://research-information.bris.ac.uk/en/persons/tom-cantellow), Developing a Net Zero Vulnerability Index for England and Wales. *Joint seminar with States Economies and Societies Research Group*  |
 | Winter holidays | 16/12/2024 |      |                  |
 | Winter holidays | 23/12/2024 |      |                  |
