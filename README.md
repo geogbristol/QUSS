@@ -57,7 +57,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays | 30/01/2025 |      |                  |
 | Winter holidays | 6/01/2025 |      |                  |
 | 1               | 13/01/2025 |      | [Rich Harris](https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/), Title TBC|
-| 2               | 20/01/2025 |      | How to peer review? |
+| 2               | 20/01/2025 |      | How to peer review? A workshop for ECRs (Levi Wolf) |
 | 3               | 27/01/2025 |      |                  |
 | 4               | 3/02/2025 |      |                  |
 | 5               | 10/02/2025 |      |  Diego Maury Romero 2nd year PhD student, title TBC               |
