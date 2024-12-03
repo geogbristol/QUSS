@@ -66,7 +66,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 8               | 3/03/2025 |      |                  |
 | 9               | 10/03/2025 |      |                  |
 | 10              | 17/03/2025 |      |                  |
-| 11              | 24/03/2025 |      |[Richard Timmerman](https://research-information.bris.ac.uk/en/persons/richard-m-timmerman), Title TBC                |
+| 11              | 24/03/2025 |      |[Richard Timmerman](https://research-information.bris.ac.uk/en/persons/richard-m-timmerman), Fine-tuning classroom applications of normalcy tests used in the quantitative analysis of geographical datasets.                |
 | 12              | 31/03/2025 |      |                  |
 | Spring vacation | 7/04/2025 |      |                  |
 | Spring vacation | 14/04/2025 |      |                  |
