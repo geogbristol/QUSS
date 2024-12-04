@@ -61,16 +61,16 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 3               | 27/01/2025 |      | *How to peer review? A workshop for ECRs* (Levi Wolf)                 |
 | 4               | 3/02/2025 |      |                  |
 | 5               | 10/02/2025 |      |             |
-| 6               | 17/02/2025 |      | Diego Maury Romero, *Where Do Pro-Environmental Attitudes Turn into Behaviour? A Multilevel Comparative Analysis of PISA Data*                     |
+| 6               | 17/02/2025 |      | [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero), *Where Do Pro-Environmental Attitudes Turn into Behaviour? A Multilevel Comparative Analysis of PISA Data*                     |
 | 7               | 24/02/2025 |      |                  |
 | 8               | 3/03/2025 |      |                  |
 | 9               | 10/03/2025 |      |                  |
-| 10              | 17/03/2025 |      |Laurence Hawker, *FuturePop - Constructing gridded population estimates until 2100*|
+| 10              | 17/03/2025 |      | [Laurence Hawker](https://www.bristol.ac.uk/people/person/Laurence-Hawker-040acbe5-6c8b-4ada-b446-bae794bbbef7/), *FuturePop - Constructing gridded population estimates until 2100*|
 | 11              | 24/03/2025 |      |[Richard Timmerman](https://research-information.bris.ac.uk/en/persons/richard-m-timmerman), *Fine-tuning classroom applications of normalcy tests used in the quantitative analysis of geographical datasets*                |
 | 12              | 31/03/2025 |      |                  |
-| Spring vacation | 7/04/2025 |      |                  |
-| Spring vacation | 14/04/2025 |      |                  |
-| Spring vacation | 21/04/2025 |      |                  |
+| Spring vacation | 7/04/2025 |      | *no meeting*                  |
+| Spring vacation | 14/04/2025 |      | *no meeting*                  |
+| Spring vacation | 21/04/2025 |      | *no meeting*                  |
 | TB2 AP          | 28/04/2025 |      |                  |
 | TB2 AP          | 05/05/2025 |      |                  |
-| TB2 AP          | 12/05/2025 |      |Cait Robinson, Title TBC                  | 
+| TB2 AP          | 12/05/2025 |      |[Cait Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson), Title TBC                  | 
