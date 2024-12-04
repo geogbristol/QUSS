@@ -60,8 +60,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | 2               | 20/01/2025 |      | Looking forward as a QuSS group---a roundtable discussion (Levi Wolf) |
 | 3               | 27/01/2025 |      | How to peer review? A workshop for ECRs (Levi Wolf)                 |
 | 4               | 3/02/2025 |      |                  |
-| 5               | 10/02/2025 |      |  Diego Maury Romero 2nd year PhD student, title TBC               |
-| 6               | 17/02/2025 |      |                  |
+| 5               | 10/02/2025 |      |             |
+| 6               | 17/02/2025 |      | Diego Maury Romero 2nd year PhD student, title TBC                     |
 | 7               | 24/02/2025 |      |                  |
 | 8               | 3/03/2025 |      |                  |
 | 9               | 10/03/2025 |      |                  |
