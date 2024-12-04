@@ -36,7 +36,7 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 
 ## Schedule
 
-| Week            | Date       | Room | Speaker          | 
+| Week            | Date       | Room | Event          | 
 |-----------------|------------|------|------------------|
 | 1               | 16/09/2024 (Monday seminar 12:00 - 13:00) |      | Welcome to QuSS! |
 | 2               | 23/09/2024 (Monday seminar 12:00 - 13:00) |      | SEMINAR POSTPONED|
@@ -57,15 +57,15 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays | 30/01/2025 |      |                  |
 | Winter holidays | 6/01/2025 |      |                  |
 | 1               | 13/01/2025 |      | [Rich Harris](https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/), Title TBC|
-| 2               | 20/01/2025 |      | Looking forward as a QuSS group---a roundtable discussion (Levi Wolf) |
-| 3               | 27/01/2025 |      | How to peer review? A workshop for ECRs (Levi Wolf)                 |
+| 2               | 20/01/2025 |      | *Looking forward as a QuSS group---a roundtable discussion* (Levi Wolf) |
+| 3               | 27/01/2025 |      | *How to peer review? A workshop for ECRs* (Levi Wolf)                 |
 | 4               | 3/02/2025 |      |                  |
 | 5               | 10/02/2025 |      |             |
 | 6               | 17/02/2025 |      | Diego Maury Romero 2nd year PhD student, title TBC                     |
 | 7               | 24/02/2025 |      |                  |
 | 8               | 3/03/2025 |      |                  |
 | 9               | 10/03/2025 |      |                  |
-| 10              | 17/03/2025 |      |                  |
+| 10              | 17/03/2025 |      |Laurence Hawker, *FuturePop - Constructing gridded population estimates until 2100*|
 | 11              | 24/03/2025 |      |[Richard Timmerman](https://research-information.bris.ac.uk/en/persons/richard-m-timmerman), Fine-tuning classroom applications of normalcy tests used in the quantitative analysis of geographical datasets.                |
 | 12              | 31/03/2025 |      |                  |
 | Spring vacation | 7/04/2025 |      |                  |
