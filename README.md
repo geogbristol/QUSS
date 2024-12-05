@@ -56,9 +56,8 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 | Winter holidays | 23/12/2024 |      |                  |
 | Winter holidays | 30/01/2025 |      |                  |
 | Winter holidays | 6/01/2025 |      |                  |
-| 1               | 13/01/2025 |      | [Rich Harris](https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/), *Measuring the changing ethnic ‘segregation’ patterns of England and Wales: using a longitudinal and intersectional index of dissimilarity and a harmonised census geography for 2001 – 2021 (plus some hybrid cartograms for good measure)
-*|
-| 2               | 20/01/2025 |      | *Looking forward as a QuSS group---a roundtable discussion* (Levi Wolf) |
+| 1               | 13/01/2025 |      | *Looking forward as a QuSS group---a roundtable discussion* (Levi Wolf) |
+| 2               | 20/01/2025 |      | [Rich Harris](https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/), *Measuring the changing ethnic ‘segregation’ patterns of England and Wales: using a longitudinal and intersectional index of dissimilarity and a harmonised census geography for 2001 – 2021 (plus some hybrid cartograms for good measure)*|
 | 3               | 27/01/2025 |      | *How to peer review? A workshop for ECRs* (Levi Wolf)                 |
 | 4               | 3/02/2025 |      |                  |
 | 5               | 10/02/2025 |      |             |
