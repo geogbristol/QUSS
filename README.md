@@ -35,6 +35,7 @@ Bellow you can find schedule for this academic year.
 If you have a suggestion for a speaker (including yourself!), or a discussion topic, or you just want to give us some feedback please email [Mirah](mailto:jing.zhang.2021@bristol.ac.uk), [Cait](mailto:caitlin.robinson@bristol.ac.uk) or [Levi](mailto:levi.wolf@bristol.ac.uk).
 
 ## Spring 2025 Schedule
+all meetings are 1PM Local time unless specified otherwise. 
 
 | Week            | Date       | Room | Event          | 
 |-----------------|------------|------|------------------|
