@@ -37,26 +37,26 @@ If you have a suggestion for a speaker (including yourself!), or a discussion to
 ## Spring 2025 Schedule
 all meetings are 1PM Local time unless specified otherwise. 
 
-| Week            | Date       | Room | Event          | 
-|-----------------|------------|------|------------------|
-| 1               | 13/01/2025 | SR2+Online     | *Looking forward as a QuSS group---a roundtable discussion* (Levi Wolf) |
-| 2               | 20/01/2025 | SR2+Online  | [Rich Harris](https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/), *Measuring the changing ethnic ‘segregation’ patterns of England and Wales: using a longitudinal and intersectional index of dissimilarity and a harmonised census geography for 2001 – 2021 (plus some hybrid cartograms for good measure)*|
-| 3               | 27/01/2025 | SR2  | *How to peer review? A workshop for ECRs* (Levi Wolf)                 |
-| 4               | 3/02/2025 |  SR2+Online    | Lenka Hasova, Title TBC |
-| 5               | 10/02/2025 | Online Only   |             |
-| 6               | 17/02/2025 | SR2+Online | [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero), *Where Do Pro-Environmental Attitudes Turn into Behaviour? A Multilevel Comparative Analysis of PISA Data*                     |
-| 7               | 24/02/2025 | SR2     | GISRUK Co-Peer review session |
-| 8               | 3/03/2025 | SR2+Online     |                  |
-| 9               | 10/03/2025 | SR2+Online | PGR Research Conversation |
-| 10              | 17/03/2025 | SR2+Online     | [Laurence Hawker](https://www.bristol.ac.uk/people/person/Laurence-Hawker-040acbe5-6c8b-4ada-b446-bae794bbbef7/), *FuturePop - Constructing gridded population estimates until 2100*|
-| 11              | 24/03/2025 | SR2+Online     |[Richard Timmerman](https://research-information.bris.ac.uk/en/persons/richard-m-timmerman), *Fine-tuning classroom applications of normalcy tests used in the quantitative analysis of geographical datasets*                |
-| 12              | 31/03/2025 | SR2+Online      |                  |
+| Week            | Date       | Room | Event Type | Event          | 
+|-----------------|------------|------|------------|------|
+| 1               | 13/01/2025 | SR2+Online | Workshop     | *Looking forward as a QuSS group---a roundtable discussion* (Levi Wolf) |
+| 2               | 20/01/2025 | SR2+Online | Seminar | [Rich Harris](https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/), *Measuring the changing ethnic ‘segregation’ patterns of England and Wales: using a longitudinal and intersectional index of dissimilarity and a harmonised census geography for 2001 – 2021 (plus some hybrid cartograms for good measure)*|
+| 3               | 27/01/2025 | SR2 Only  |Workshop| *How to peer review? A workshop for ECRs* (Levi Wolf)                 |
+| 4               | 3/02/2025 |  SR2+Online | Seminar   | Lenka Hasova, Title TBC |
+| 5               | 10/02/2025 | Online Only | TBC  |             |
+| 6               | 17/02/2025 | SR2+Online | Seminar | [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero), *Where Do Pro-Environmental Attitudes Turn into Behaviour? A Multilevel Comparative Analysis of PISA Data*                     |
+| 7               | 24/02/2025 | SR2 Only | Workshop    | GISRUK Co-Peer review session |
+| 8               | 3/03/2025 | SR2+Online | TBC   |                  |
+| 9               | 10/03/2025 | SR2+Online | Conversation| PGR Research Conversation |
+| 10              | 17/03/2025 | SR2+Online | Seminar    | [Laurence Hawker](https://www.bristol.ac.uk/people/person/Laurence-Hawker-040acbe5-6c8b-4ada-b446-bae794bbbef7/), *FuturePop - Constructing gridded population estimates until 2100*|
+| 11              | 24/03/2025 | SR2+Online | Seminar    |[Richard Timmerman](https://research-information.bris.ac.uk/en/persons/richard-m-timmerman), *Fine-tuning classroom applications of normalcy tests used in the quantitative analysis of geographical datasets*                |
+| 12              | 31/03/2025 | SR2+Online  | TBC    |                  |
 | Spring vacation | 7/04/2025 |      | *no meeting*                  |
 | Spring vacation | 14/04/2025 |      | *no meeting*                  |
 | Spring vacation | 21/04/2025 |      | *no meeting*                  |
-| TB2 AP          | 28/04/2025 | SR2+Online |                  |
-| TB2 AP          | 05/05/2025 | SR2+Online |                  |
-| TB2 AP          | 12/05/2025 | SR2+Online |[Cait Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson), Title TBC                  | 
+| TB2 AP          | 28/04/2025 | SR2+Online | TBC  |                |
+| TB2 AP          | 05/05/2025 | SR2+Online | TBC |                |
+| TB2 AP          | 12/05/2025 | SR2+Online | Seminar | [Cait Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson), Title TBC                  | 
 
 # Fall 2024 Schedule
 | Week            | Date       | Room | Event          | 
