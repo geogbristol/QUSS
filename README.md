@@ -46,7 +46,7 @@ all meetings are 1PM Local time unless specified otherwise.
 | 5               | 10/02/2025 | Online Only | TBC  |             |
 | 6               | 17/02/2025 | SR2+Online | Seminar | [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero), *Where Do Pro-Environmental Attitudes Turn into Behaviour? A Multilevel Comparative Analysis of PISA Data*                     |
 | 7               | 24/02/2025 | SR2 Only | Workshop    | GISRUK Co-Peer review session |
-| 8               | 3/03/2025 | SR2+Online | TBC   |                  |
+| 8               | 3/03/2025 | Online | [Olena Holubowska, "Spaces of Encounter"](https://doi.org/10.1002/psp.2879)   |                  |
 | 9               | 10/03/2025 | SR2+Online | Conversation| PGR Research Conversation |
 | 10              | 17/03/2025 | SR2+Online | Seminar    | [Laurence Hawker](https://www.bristol.ac.uk/people/person/Laurence-Hawker-040acbe5-6c8b-4ada-b446-bae794bbbef7/), *FuturePop - Constructing gridded population estimates until 2100*|
 | 11              | 24/03/2025 | SR2+Online | Seminar    |[Richard Timmerman](https://research-information.bris.ac.uk/en/persons/richard-m-timmerman), *Fine-tuning classroom applications of normalcy tests used in the quantitative analysis of geographical datasets*                |
