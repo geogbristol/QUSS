@@ -42,7 +42,7 @@ all meetings are 1PM Local time unless specified otherwise.
 | 1               | 13/01/2025 | SR2+Online | Workshop     | *Looking forward as a QuSS group---a roundtable discussion* (Levi Wolf) |
 | 2               | 20/01/2025 | SR2+Online | Seminar | [Rich Harris](https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/), *Measuring the changing ethnic ‘segregation’ patterns of England and Wales: using a longitudinal and intersectional index of dissimilarity and a harmonised census geography for 2001 – 2021 (plus some hybrid cartograms for good measure)*|
 | 3               | 27/01/2025 | SR2 Only  |Workshop| *How to peer review? A workshop for ECRs* (Levi Wolf)                 |
-| 4               | 3/02/2025 |  SR2+Online | Seminar   | Lenka Hasova, ‘The ups and downs of mapping the Indoor Air Quality sources across England and Wales.’ |
+| 4               | 3/02/2025 |  SR2+Online | Seminar   | [Lenka Hasova](https://research-information.bris.ac.uk/en/persons/lenka-hasova), *The ups and downs of mapping the Indoor Air Quality sources across England and Wales.* |
 | 5               | 10/02/2025 | Online Only | TBC  |             |
 | 6               | 17/02/2025 | SR2+Online | Seminar | [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero), *Where Do Pro-Environmental Attitudes Turn into Behaviour? A Multilevel Comparative Analysis of PISA Data*                     |
 | 7               | 24/02/2025 | SR2 Only | Workshop    | GISRUK Co-Peer review session |
