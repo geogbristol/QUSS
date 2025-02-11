@@ -54,7 +54,7 @@ all meetings are 1PM Local time unless specified otherwise.
 | Spring vacation | 7/04/2025 |      | *no meeting*                  |
 | Spring vacation | 14/04/2025 |      | *no meeting*                  |
 | Spring vacation | 21/04/2025 |      | *no meeting*                  |
-| TB2 AP          | 28/04/2025 | SR2+Online | TBC  |  [KIlina Mayer] Tracking Road Network Changes in the UK: A Random Forest Model for Validating OpenStreetMap Edits Against Ordnance Survey MasterMap             |
+| TB2 AP          | 28/04/2025 | SR2+Online | TBC  |  [Kilian Mayer](https://www.swdtp.ac.uk/profile/kilian-mayer/) *Tracking Road Network Changes in the UK: A Random Forest Model for Validating OpenStreetMap Edits Against Ordnance Survey MasterMap*             |
 | TB2 AP          | 05/05/2025 | SR2+Online | TBC |                |
 | TB2 AP          | 12/05/2025 | SR2+Online | Seminar | [Cait Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson), Title TBC                  | 
 
