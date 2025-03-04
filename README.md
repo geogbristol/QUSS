@@ -47,7 +47,7 @@ all meetings are 1PM Local time unless specified otherwise.
 | 6               | 17/02/2025 | SR2+Online | Seminar | [Diego Maury Romero](https://research-information.bris.ac.uk/en/persons/diego-a-maury-romero), *Where Do Pro-Environmental Attitudes Turn into Behaviour? A Multilevel Comparative Analysis of PISA Data*                     |
 | 7               | 24/02/2025 | SR2 Only | Workshop    | GISRUK Co-Peer review session |
 | 8               | 3/03/2025 | Online | Seminar | [Olena Holubowska, *"Spaces of Encounter": The Relationship Between Amenities and Visitor Diversity*](https://doi.org/10.1002/psp.2879)   |                  |
-| 9               | 10/03/2025 | SR2+Online | Conversation| PGR Research Conversation |
+| 9               | 10/03/2025 | SR2+Online | Conversation| PGR Research Conversation w/ Yifan Liang |
 | 10              | 17/03/2025 | SR2+Online | Seminar    | [Laurence Hawker](https://www.bristol.ac.uk/people/person/Laurence-Hawker-040acbe5-6c8b-4ada-b446-bae794bbbef7/), *FuturePop - Constructing gridded population estimates until 2100*|
 | 11              | 24/03/2025 | SR2+Online | Seminar    |[Richard Timmerman](https://research-information.bris.ac.uk/en/persons/richard-m-timmerman), *Fine-tuning classroom applications of normalcy tests used in the quantitative analysis of geographical datasets*                |
 | 12              | 31/03/2025 | SR2+Online  | TBC    |[Yanfei Zhong](https://scholar.google.com/citations?user=Fm7XZ5AAAAAJ&hl=zh-CN), TBC|
@@ -55,7 +55,7 @@ all meetings are 1PM Local time unless specified otherwise.
 | Spring vacation | 14/04/2025 |      | *no meeting*                  |
 | Spring vacation | 21/04/2025 |      | *no meeting*                  |
 | TB2 AP          | 28/04/2025 | SR2+Online | TBC  |  [Kilian Mayer](https://www.swdtp.ac.uk/profile/kilian-mayer/) *Tracking Road Network Changes in the UK: A Random Forest Model for Validating OpenStreetMap Edits Against Ordnance Survey MasterMap*             |
-| TB2 AP          | 05/05/2025 | SR2+Online | TBC |                |
+| TB2 AP          | 05/05/2025 | SR2+Online | TBC | PGR Research Conversation w/ Boyi Li               |
 | TB2 AP          | 12/05/2025 | SR2+Online | Seminar | [Cait Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson), Title TBC                  | 
 
 # Fall 2024 Schedule
