@@ -50,7 +50,7 @@ all meetings are 1PM Local time unless specified otherwise.
 | 9               | 10/03/2025 | SR2+Online | Conversation| PGR Research Conversation w/ Yifan Liang |
 | 10              | 17/03/2025 | SR2+Online | Seminar    | [Laurence Hawker](https://www.bristol.ac.uk/people/person/Laurence-Hawker-040acbe5-6c8b-4ada-b446-bae794bbbef7/), *FuturePop - Constructing gridded population estimates until 2100*|
 | 11              | 24/03/2025 | SR2+Online | Seminar    |[Richard Timmerman](https://research-information.bris.ac.uk/en/persons/richard-m-timmerman), *Fine-tuning classroom applications of normalcy tests used in the quantitative analysis of geographical datasets*                |
-| 12              | 31/03/2025 | SR2+Online  | TBC    |[Yanfei Zhong](https://scholar.google.com/citations?user=Fm7XZ5AAAAAJ&hl=zh-CN), TBC|
+| 12              | 31/03/2025 | Fry G.13+Online  | TBC    |[Yanfei Zhong](https://scholar.google.com/citations?user=Fm7XZ5AAAAAJ&hl=zh-CN), TBC|
 | Spring vacation | 7/04/2025 |      | *no meeting*                  |
 | Spring vacation | 14/04/2025 |      | *no meeting*                  |
 | Spring vacation | 21/04/2025 |      | *no meeting*                  |
