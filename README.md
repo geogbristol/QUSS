@@ -56,7 +56,6 @@ all meetings are 1PM Local time unless specified otherwise.
 | Spring vacation | 21/04/2025 |      | *no meeting*                  |
 | TB2 AP          | 28/04/2025 | SR2+Online | TBC  |  [Kilian Mayer](https://www.swdtp.ac.uk/profile/kilian-mayer/) *Tracking Road Network Changes in the UK: A Random Forest Model for Validating OpenStreetMap Edits Against Ordnance Survey MasterMap*             |
 | TB2 AP          | **Tuesday 06/05/2025** | SR2+Online | TBC | PGR Research Conversation w/ Boyi Li              |
-| TB2 AP          | 19/05/2025 | SR2+Online | Seminar | [Oluwole Adeniyi](https://www.ntu.ac.uk/staff-profiles/business/oluwole-adeniyi),                  | 
 
 # Fall 2024 Schedule
 | Week            | Date       | Room | Event          | 
