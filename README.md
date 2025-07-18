@@ -30,9 +30,9 @@ If you have a suggestion for discussion, presentation topic you are interested i
 
 ## Schedule
 
-| Week | Date   | Period | Do we have QUSS   seminar? | Online/In person | Link to zoom | Room | Content  | QUSS Beers |
+| Week | Date   | Do we have QUSS seminar? | Title | Online/In person | Link to zoom | Room | Content  | QUSS Beers |
 |------|-----|---------|------------|-------|---------|--------|-----|----------|
-|Welcome week|15/09/2025|---------|------------|-------|---------|--------|-----|----------|
+|Welcome week|15/09/2025|Y| QuSS welcome lunch and introductions | In-person|---------|--------| A lunch will be provided. An opportunity to meet other group members and briefly introduce yourself. |----------|
 |1|22/09/2025|---------|------------|-------|---------|--------|-----|----------|
 |2|29/09/2025|---------|------------|-------|---------|--------|-----|----------|
 |3|06/10/2025|---------|------------|-------|---------|--------|-----|----------|
