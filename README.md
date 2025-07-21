@@ -42,7 +42,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |7|12/11/2025|---------|------------|-------|---------|--------|-----|----------|
 |8|19/11/2025|---------|------------|-------|---------|--------|-----|----------|
 |9|26/11/2025|---------|------------|-------|---------|--------|-----|----------|
-|10|02/12/2025 (Note this is a Tuesday!)| Ed Atkins, Caitlin Robinson and Tom Cantellow | The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales. |In-person |---------|--------| SES x QuSS Guest Seminar |----------|
+|10|02/12/2025 (Note this is a Tuesday!)| [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and Tom Cantellow | The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales. |In-person |---------|--------| SES x QuSS Guest Seminar |----------|
 |TB1 Assessment period|10/12/2025|---------|------------|-------|---------|--------|-----|End of term drinks |
 |TB1 Assessment period|17/12/2025|---------|------------|-------|---------|--------|-----|----------|
 |Winter vacation|24/12/2025|---------|------------|-------|---------|--------|-----|----------|
