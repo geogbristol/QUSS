@@ -44,10 +44,10 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |9|26/11/2025|*SES x QuSS Seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and Tom Cantellow will present on 'The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales.' ||||
 |10|04/12/2025 (Note this is a Thursday!)|*Gambling Hub x QuSS Event:* Details TBC.||Emmanouil Tranos||  
 |TB1 Assessment period|10/12/2025|---------|------------|-------|---------|--------|End of term drinks |
-|TB1 Assessment period|17/12/2025|---------|------------|-------|---------|--------|-----|
-|Winter vacation|24/12/2025|---------|------------|-------|---------|--------|-----|
-|Winter vacation|31/12/2025|---------|------------|-------|---------|--------|-----|
-|Winter vacation|7/01/2026|---------|------------|-------|---------|--------|-----|
+|TB1 Assessment period|17/12/2025||------------|-------|---------|--------|-----|
+|Winter vacation|24/12/2025|No seminar|------------|-------|---------|--------|-----|
+|Winter vacation|31/12/2025|No seminar|------------|-------|---------|--------|-----|
+|Winter vacation|7/01/2026|No seminar|------------|-------|---------|--------|-----|
 |Preparation week|14/01/2026|---------|------------|-------|---------|--------|-----|
 |11|21/01/2026|---------|------------|-------|---------|--------|-----|
 |12|28/01/2026|---------|------------|-------|---------|--------|-----|
