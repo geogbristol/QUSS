@@ -30,7 +30,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 ## Schedule
 
 | Week | Date and time | Overview | Room | Chair | QUSS Social |
-|------|-----|-------------------|-------------------|--------------------|---------|--------|---------------------|
+|------|-----|------------|---------|--------|---------------------|
 |Welcome week|17/09/2025| *QuSS Welcome lunch:* An opportunity to meet other group members and briefly introduce yourself. Lunch provided. || Caitlin Robinson ||
 |1|24/09/2025|---------|------------|-------|---------|--------|-----|
 |2|01/10/2025|---------|------------|-------|---------|--------|-----|
