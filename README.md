@@ -25,7 +25,7 @@ Bellow you can find schedule for this academic year.
 
 ## Suggestions, questions, and feedback
 
-If you have a suggestion for discussion, presentation topic you are interested in, know about someone from other university you want to hear about or just want to give us some feedback you can either use [this anonymous google form](https://forms.gle/kSDZTf6AUpANTF9U9) or send us email directly to lenka.hasova@bristol.ac.uk or e.tranos@bristol.ac.uk.
+If you have a suggestion for discussion, presentation topic you are interested in, know about someone from other university you want to hear about or just want to give us some feedback send us an email to caitlin.robinson@bristol.ac.uk.
 
 
 ## Schedule
