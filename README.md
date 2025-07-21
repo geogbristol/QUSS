@@ -41,8 +41,8 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |6|05/11/2025|---------|------------|-------|---------|--------|-----|
 |7|12/11/2025|---------|------------|-------|---------|--------|-----|
 |8|19/11/2025|---------|------------|-------|---------|--------|-----|
-|9|26/11/2025|---------|------------|-------|---------|--------|-----|
-|10|02/12/2025 (Note this is a Tuesday!)| SES x QuSS Guest Seminar | [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and Tom Cantellow | The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales. |---------|--------|--------| 
+|9|26/11/2025|SES x QuSS Guest Seminar| [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and Tom Cantellow | The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales. |---------|--------|--------|
+|10|04/12/2025 (Note this is a Thursday!)|Gambling Hub x QuSS Event|TBC|-------|---------|Emmanouil Tranos|-----|  
 |TB1 Assessment period|10/12/2025|---------|------------|-------|---------|--------|End of term drinks |
 |TB1 Assessment period|17/12/2025|---------|------------|-------|---------|--------|-----|
 |Winter vacation|24/12/2025|---------|------------|-------|---------|--------|-----|
