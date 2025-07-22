@@ -33,21 +33,21 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |------|-----|------------|---------|--------|---------------------|
 |Welcome week|17/09/2025| *QuSS Welcome lunch:* An opportunity to meet other group members and briefly introduce yourself. Lunch provided. || Caitlin Robinson ||
 |1|24/09/2025|*QuSS and University of Vienna get together:* Visit from [Prof Krzysztof Janowicz](https://www.univie.ac.at/en/research/research-overview/neue-professuren/detailansicht-en/artikel/univ-prof-dr-krzysztof-janowicz/) and collaborators.||Rui Zhu|Drinks with University of Vienna (Tuesday 23rd!)|
-|2|01/10/2025|---------|------------|-------|---------|--------|-----|
-|3|08/10/2025|---------|------------|-------|---------|--------|-----|
-|4|15/10/2025|---------|------------|-------||
-|5|22/10/2025|---------|------------|||
-|TB1 consolidation week|29/10/2025|---------|------------|||
+|2|01/10/2025|||||
+|3|08/10/2025|||||
+|4|15/10/2025|||||
+|5|22/10/2025|||||
+|TB1 consolidation week|29/10/2025|||||
 |6|05/11/2025|*Publishing journal articles panel:* Panelists include [Lenka Hasova](https://www.bristol.ac.uk/people/person/Lenka-Hasova-0b32770b-c4cb-4d84-945b-b85a9bd4536b/), [Hao Zhang](https://www.bristol.ac.uk/people/person/Hao-Zhang-ff778149-d031-4b72-80f0-ab9625debd95/), [Mirah Zhang](https://www.bristol.ac.uk/people/person/Mirah-Zhang-edba583f-764c-40cb-8483-db3a749a8c1b/). An opportunity to hear from QuSSers at a range of career stages, and to share your own experiences.||Caitlin Robinson||
-|7|12/11/2025|---------|------------|-------|---------||
-|8|19/11/2025|---------|------------|-------|---------||
+|7|12/11/2025|||||
+|8|19/11/2025|||||
 |9|26/11/2025|*SES x QuSS Seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and Tom Cantellow will present on 'The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales.' ||Qiujie Shi||
 |10|04/12/2025 (Note this is a Thursday!)|*Gambling Hub x QuSS Event:* Details TBC.||Emmanouil Tranos||  
-|TB1 Assessment period|10/12/2025|---------|------------|Caitlin Robinson|End of term drinks |
-|TB1 Assessment period|17/12/2025||------------|-------|---------|Caitlin Robinson||
-|Winter vacation|24/12/2025|No seminar|------------|-------|---------|--------|-----|
-|Winter vacation|31/12/2025|No seminar|------------|-------|---------|--------|-----|
-|Winter vacation|7/01/2026|No seminar|------------|-------|---------|--------|-----|
+|TB1 Assessment period|10/12/2025|||Caitlin Robinson|End of term drinks |
+|TB1 Assessment period|17/12/2025|||||
+|Winter vacation|24/12/2025|No seminar||||
+|Winter vacation|31/12/2025|No seminar||||
+|Winter vacation|7/01/2026|No seminar||||
 |Preparation week|14/01/2026|---------|------------|-------|---------|--------|-----|
 |11|21/01/2026|---------|------------|-------|---------|--------|-----|
 |12|28/01/2026|---------|------------|-------|---------|--------|-----|
