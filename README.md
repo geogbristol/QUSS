@@ -33,7 +33,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |------|-----|------------|---------|--------|---------------------|
 |Welcome week|17/09/2025| *QuSS Welcome lunch:* An opportunity to meet other group members and briefly introduce yourself. Lunch provided. || Caitlin Robinson ||
 |1|24/09/2025|*QuSS and University of Vienna get together:* Visit from [Prof Krzysztof Janowicz](https://www.univie.ac.at/en/research/research-overview/neue-professuren/detailansicht-en/artikel/univ-prof-dr-krzysztof-janowicz/) and collaborators.||Rui Zhu|Drinks with University of Vienna (Tuesday 23rd!)|
-|2|01/10/2025|*HCRG x QuSS Seminar:* Alexis Litvine (University of Oxford)||Joe Day||
+|2|01/10/2025|*HCRG x QuSS Seminar:* [Alexis Litvine](https://www.hist.cam.ac.uk/people/dr-alexis-litvine) (University of Oxford)||Joe Day||
 |3|08/10/2025|||||
 |4|15/10/2025|||||
 |5|22/10/2025|||||
