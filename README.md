@@ -37,7 +37,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |3|08/10/2025|||||
 |4|15/10/2025|*QuSS seminar:* [Lars Nesheim](https://www.bristol.ac.uk/people/person/Lars-Nesheim-acdaafb9-77b5-4c68-a281-c881032ffb8f/) (University of Bristol) ||Emmanouil Tranos||
 |5|22/10/2025|*HCRG x QuSS seminar:* [Alexis Litvine](https://www.hist.cam.ac.uk/people/dr-alexis-litvine) (University of Oxford)||Joe Day||
-|TB1 consolidation week|29/10/2025|||||
+|TB1 consolidation week|29/10/2025|*QuSS seminar:* [Evgeny Noi](https://research-information.bris.ac.uk/en/persons/evgeny-noi): Modelling urban population growth||||
 |6|05/11/2025|*Publishing journal articles panel:* Panelists include [Lenka Hasova](https://www.bristol.ac.uk/people/person/Lenka-Hasova-0b32770b-c4cb-4d84-945b-b85a9bd4536b/), [Hao Zhang](https://www.bristol.ac.uk/people/person/Hao-Zhang-ff778149-d031-4b72-80f0-ab9625debd95/), [Mirah Zhang](https://www.bristol.ac.uk/people/person/Mirah-Zhang-edba583f-764c-40cb-8483-db3a749a8c1b/). An opportunity to hear from QuSSers at a range of career stages, and to share your own experiences.||Caitlin Robinson||
 |7|12/11/2025|*QuSS seminar*: [Ruth Neville](https://scholar.google.com/citations?user=s_oU91kAAAAJ&hl=en) (University College London)||Caitlin Robinson||
 |8|19/11/2025|*SES x QuSS peer review session:* Two researchers to provide feedback on [Qiujie Shi's](https://research-information.bris.ac.uk/en/persons/qiujie-shi) paper or chapter TBC||Caitlin Robinson||
