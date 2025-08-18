@@ -45,7 +45,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |9|26/11/2025|*Talk:* [James Cheshire](https://libraryoflostmaps.com/) (UCL): 'Library of Lost Maps.' Details TBC.||||
 |10|04/12/2025 (Note this is a Thursday!)|*Gambling Hub x QuSS event:* Details TBC.||Emmanouil Tranos||  
 |TB1 Assessment period|10/12/2025|*SES x QuSS seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana) (The University of Manchester): Tentative date||Caitlin Robinson|End of term drinks |
-|TB1 Assessment period|17/12/2025|*Winter holidays tea and cake:* Details TBC.||Caitlin Robinson||
+|TB1 Assessment period|17/12/2025|||Caitlin Robinson||
 |Winter vacation|24/12/2025|No seminar||||
 |Winter vacation|31/12/2025|No seminar||||
 |Winter vacation|7/01/2026|No seminar||||
