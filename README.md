@@ -32,7 +32,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | Week | Date and time | Overview | Room | Chair | QUSS Social |
 |------|-----|------------|---------|--------|---------------------|
 |Welcome week|17/09/2025| *QuSS welcome lunch:* An opportunity to meet other group members and briefly introduce yourself. Lunch provided. || Caitlin Robinson ||
-|1|24/09/2025|*Turing x QuSS seminar:* [Krzysztof Janowicz](https://www.univie.ac.at/en/research/research-overview/neue-professuren/detailansicht-en/artikel/univ-prof-dr-krzysztof-janowicz/).||Rui Zhu|Drinks with University of Vienna (Tuesday 23rd!)|
+|1|24/09/2025 [4pm-5pm]|*School Lecture:* [Krzysztof Janowicz](https://www.univie.ac.at/en/research/research-overview/neue-professuren/detailansicht-en/artikel/univ-prof-dr-krzysztof-janowicz/).||Rui Zhu|Drinks with University of Vienna (Tuesday 23rd!)|
 |2|01/10/2025|*Use of AI in research panel:* Details TBC||Emmanouil Tranos||
 |3|08/10/2025|||||
 |4|15/10/2025|*QuSS seminar:* [Lars Nesheim](https://www.bristol.ac.uk/people/person/Lars-Nesheim-acdaafb9-77b5-4c68-a281-c881032ffb8f/) (University of Bristol) ||Emmanouil Tranos||
