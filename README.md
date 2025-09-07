@@ -42,10 +42,10 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |7|12/11/2025|*QuSS seminar*: [Ruth Neville](https://scholar.google.com/citations?user=s_oU91kAAAAJ&hl=en) (University College London)||Caitlin Robinson||
 |8|19/11/2025|*SES x QuSS peer review session:* Two researchers to provide feedback on [Qiujie Shi's](https://research-information.bris.ac.uk/en/persons/qiujie-shi) paper or chapter TBC||Caitlin Robinson||
 |9|25/11/2025 (Note this is a bonus event!)|*SES x QuSS seminar:* [Ed Atkins](https://research-information.bris.ac.uk/en/persons/ed-atkins), [Caitlin Robinson](https://research-information.bris.ac.uk/en/persons/caitlin-robinson) and Tom Cantellow will present on 'The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales.' ||Qiujie Shi||
-|9|26/11/2025|*Talk:* [James Cheshire](https://libraryoflostmaps.com/) (UCL): 'Library of Lost Maps.' Details TBC.||||
+|9|26/11/2025|*Talk:* [James Cheshire](https://libraryoflostmaps.com/) (Univeristy College London): 'Library of Lost Maps.' Details TBC.||||
 |10|04/12/2025 (Note this is a Thursday!)|*Gambling Hub x QuSS event:* Details TBC.||Emmanouil Tranos||  
 |TB1 Assessment period|10/12/2025|*SES x QuSS seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana) (The University of Manchester): Tentative date||Caitlin Robinson|End of term drinks |
-|TB1 Assessment period|17/12/2025|||Caitlin Robinson||
+|TB1 Assessment period|17/12/2025|*QuSS peer review session:* Two researchers to provide feedback on Caitlin Robinson's commentary for The Geographical Journal.||Caitlin Robinson||
 |Winter vacation|24/12/2025|No seminar||||
 |Winter vacation|31/12/2025|No seminar||||
 |Winter vacation|7/01/2026|No seminar||||
