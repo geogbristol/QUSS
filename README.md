@@ -45,7 +45,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |10|03/12/2025 (4pm-6pm)|*Geographers Salon:* Maps we live by|Peel Lecture Theatre|No|Naomi Millner||
 |10|04/12/2025 (Note this is a Thursday!)|*Gambling Hub x QuSS event:* Details TBC.|||Emmanouil Tranos||  
 |TB1 Assessment period|10/12/2025 (12pm - 1pm)|*Publishing journal articles panel:* Panelists include [Lenka Hasova](https://www.bristol.ac.uk/people/person/Lenka-Hasova-0b32770b-c4cb-4d84-945b-b85a9bd4536b/), [Hao Zhang](https://www.bristol.ac.uk/people/person/Hao-Zhang-ff778149-d031-4b72-80f0-ab9625debd95/), [Mirah Zhang](https://www.bristol.ac.uk/people/person/Mirah-Zhang-edba583f-764c-40cb-8483-db3a749a8c1b/). An opportunity to hear from QuSSers at a range of career stages, and to share your own experiences.|Fry Building G.09||Caitlin Robinson|End of term drinks |
-|TB1 Assessment period|17/12/2025 (12pm - 1pm)|TBC|||Caitlin Robinson|||
+|TB1 Assessment period|17/12/2025|||||||
 |Winter vacation|24/12/2025|||||||
 |Winter vacation|31/12/2025|No seminar|||||||
 |Winter vacation|7/01/2026|No seminar|||||||
