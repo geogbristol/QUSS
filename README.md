@@ -39,7 +39,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |5|22/10/2025 (12pm-1pm)|*HCRG x QuSS seminar:* [Alexis Litvine](https://www.hist.cam.ac.uk/people/dr-alexis-litvine) (University of Oxford)||No|Joe Day||
 |TB1 consolidation week|29/10/2025 (12pm-1pm)|*QuSS seminar:* [Evgeny Noi](https://research-information.bris.ac.uk/en/persons/evgeny-noi) (University of Bristol) "Modelling urban population growth"|Fry Building G.13|No|Lenka Hasova||
 |6|05/11/2025 (12pm-2pm)|*Geogographers salon:* Material archives|Arts Complex LT2|No|Naomi Millner||
-|7|12/11/2025 (12pm-1pm)|*QuSS seminar*: [Ruth Neville](https://scholar.google.com/citations?user=s_oU91kAAAAJ&hl=en) (University College London)|Arts Complex G65||Caitlin Robinson||
+|7|12/11/2025 (12pm-1pm)|*QuSS seminar*: [Ruth Neville](https://scholar.google.com/citations?user=s_oU91kAAAAJ&hl=en) (University College London)|Arts Complex G65||Caitlin Robinson|Mid-term social drinks|
 |8|19/11/2025 (12pm-1pm)|*PhD research presentation:* Shiqi Li (University of Bristol) "Transit-orientated development using deep gravity models"|Arts Complex G65||Caitlin Robinson||
 |9|26/11/2025 (4pm-6pm)|*School talk:* [James Cheshire](https://libraryoflostmaps.com/) (Univeristy College London): 'Library of Lost Maps.'|Peel Lecture Theatre|No|David Richards and Caitlin Robinson||
 |10|03/12/2025 (4pm-6pm)|*Geographers Salon:* Maps we live by|Peel Lecture Theatre|No|Naomi Millner||
