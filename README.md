@@ -43,7 +43,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |8|19/11/2025 (12pm-1pm)|*PhD research presentation:* Shiqi Li (University of Bristol) "Transit-orientated development using deep gravity models"|Arts Complex G65||Caitlin Robinson||
 |9|26/11/2025 (4pm-6pm)|*School talk:* [James Cheshire](https://libraryoflostmaps.com/) (Univeristy College London): 'Library of Lost Maps.'|Peel Lecture Theatre|No|David Richards and Caitlin Robinson||
 |10|03/12/2025 (4pm-6pm)|*Geographers Salon:* Maps we live by|Peel Lecture Theatre|No|Naomi Millner||
-|10|04/12/2025 (Note this is a Thursday!)|*Gambling Hub x QuSS event:* Details TBC.|||Emmanouil Tranos||  
+|10|04/12/2025 (10am - 4.30pm, Note this is a Thursday!)|*Gambling Hub event:* The spatial dimensions of gambling workshop. Regiester [here](https://www.bristol.ac.uk/research/groups/gambling-harms/events/2025/workshop-spatial-dimensions.html)|Lady Hale Moot Court, 8-10 Berkeley Square|No|Emmanouil Tranos||  
 |TB1 Assessment period|10/12/2025 (12pm - 1pm)|*Publishing journal articles panel:* Panelists include [Lenka Hasova](https://www.bristol.ac.uk/people/person/Lenka-Hasova-0b32770b-c4cb-4d84-945b-b85a9bd4536b/), [Hao Zhang](https://www.bristol.ac.uk/people/person/Hao-Zhang-ff778149-d031-4b72-80f0-ab9625debd95/), [Mirah Zhang](https://www.bristol.ac.uk/people/person/Mirah-Zhang-edba583f-764c-40cb-8483-db3a749a8c1b/). An opportunity to hear from QuSSers at a range of career stages, and to share your own experiences.|Fry Building G.09||Caitlin Robinson|End of term social|
 |TB1 Assessment period|17/12/2025|No seminar||||||
 |Winter vacation|24/12/2025|No seminar||||||
