@@ -37,21 +37,21 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |3|08/10/2025 (12pm-1pm)|*Use of AI in research panel*|Wills Memorial Building 3.23|No|Emmanouil Tranos||
 |4|15/10/2025 (12pm-1pm)|*QuSS seminar:* [Lars Nesheim](https://www.bristol.ac.uk/people/person/Lars-Nesheim-acdaafb9-77b5-4c68-a281-c881032ffb8f/) (University of Bristol): "Spatial retail competition: FABLE evidence on the spatial distribution of spending" |Fry Building G.09|No|Emmanouil Tranos||
 |5|22/10/2025 (12pm-1pm)|*HCRG x QuSS seminar:* [Alexis Litvine](https://www.hist.cam.ac.uk/people/dr-alexis-litvine) (University of Oxford)||No|Joe Day||
-|TB1 consolidation week|29/10/2025 (12pm-1pm)|*QuSS seminar:* [Evgeny Noi](https://research-information.bris.ac.uk/en/persons/evgeny-noi) (University of Bristol) "Modelling urban population growth"|Fry Building G.13|No|Lenka Hasova||
-|6|05/11/2025 (12pm-2pm)|*Geogographers salon:* Material archives|Arts Complex LT2|No|Naomi Millner||
-|7|12/11/2025 (12pm-1pm)|*QuSS seminar*: [Ruth Neville](https://scholar.google.com/citations?user=s_oU91kAAAAJ&hl=en) (University College London)|Arts Complex G65||Caitlin Robinson|Mid-term social|
-|8|19/11/2025 (12pm-1pm)|*PhD research presentation:* Shiqi Li (University of Bristol) "Transit-orientated development using deep gravity models"|Arts Complex G65||Caitlin Robinson||
-|9|26/11/2025 (4pm-6pm)|*School talk:* [James Cheshire](https://libraryoflostmaps.com/) (Univeristy College London): 'Library of Lost Maps.'|Peel Lecture Theatre|No|David Richards and Caitlin Robinson||
+|6|29/10/2025 (12pm-1pm)|*QuSS seminar:* [Evgeny Noi](https://research-information.bris.ac.uk/en/persons/evgeny-noi) (University of Bristol) "Modelling urban population growth"|Fry Building G.13|No|Lenka Hasova||
+|7|05/11/2025 (12pm-2pm)|*Geogographers salon:* Material archives|Arts Complex LT2|No|Naomi Millner||
+|8|12/11/2025 (12pm-1pm)|*QuSS seminar*: [Ruth Neville](https://scholar.google.com/citations?user=s_oU91kAAAAJ&hl=en) (University College London)|Arts Complex G65||Caitlin Robinson|Mid-term social|
+|9|19/11/2025 (12pm-1pm)|*PhD research presentation:* Shiqi Li (University of Bristol) "Transit-orientated development using deep gravity models"|Arts Complex G65||Caitlin Robinson||
+|10|26/11/2025 (4pm-6pm)|*School talk:* [James Cheshire](https://libraryoflostmaps.com/) (Univeristy College London): 'Library of Lost Maps.'|Peel Lecture Theatre|No|David Richards and Caitlin Robinson||
 |10|03/12/2025 (4pm-6pm)|*Geographers Salon:* Maps we live by|Peel Lecture Theatre|No|Naomi Millner||
-|10|04/12/2025 (10am - 4.30pm, Note this is a Thursday!)|*Gambling Hub event:* The spatial dimensions of gambling workshop. Regiester [here](https://www.bristol.ac.uk/research/groups/gambling-harms/events/2025/workshop-spatial-dimensions.html)|Lady Hale Moot Court, 8-10 Berkeley Square|No|Emmanouil Tranos||  
-|TB1 Assessment period|10/12/2025 (12pm - 1pm)|*Publishing journal articles panel:* Panelists include [Lenka Hasova](https://www.bristol.ac.uk/people/person/Lenka-Hasova-0b32770b-c4cb-4d84-945b-b85a9bd4536b/), [Hao Zhang](https://www.bristol.ac.uk/people/person/Hao-Zhang-ff778149-d031-4b72-80f0-ab9625debd95/), [Mirah Zhang](https://www.bristol.ac.uk/people/person/Mirah-Zhang-edba583f-764c-40cb-8483-db3a749a8c1b/). An opportunity to hear from QuSSers at a range of career stages, and to share your own experiences.|Fry Building G.09||Caitlin Robinson|End of term social|
+|11|04/12/2025 (10am - 4.30pm, Note this is a Thursday!)|*Gambling Hub event:* The spatial dimensions of gambling workshop. Regiester [here](https://www.bristol.ac.uk/research/groups/gambling-harms/events/2025/workshop-spatial-dimensions.html)|Lady Hale Moot Court, 8-10 Berkeley Square|No|Emmanouil Tranos||  
+|12|10/12/2025 (12pm - 1pm)|*Publishing journal articles panel:* Panelists include [Lenka Hasova](https://www.bristol.ac.uk/people/person/Lenka-Hasova-0b32770b-c4cb-4d84-945b-b85a9bd4536b/), [Hao Zhang](https://www.bristol.ac.uk/people/person/Hao-Zhang-ff778149-d031-4b72-80f0-ab9625debd95/), [Mirah Zhang](https://www.bristol.ac.uk/people/person/Mirah-Zhang-edba583f-764c-40cb-8483-db3a749a8c1b/). An opportunity to hear from QuSSers at a range of career stages, and to share your own experiences.|Fry Building G.09||Caitlin Robinson|End of term social|
 |TB1 Assessment period|17/12/2025|No seminar||||||
 |Winter vacation|24/12/2025|No seminar||||||
 |Winter vacation|31/12/2025|No seminar|||||||
 |Winter vacation|7/01/2026|No seminar|||||||
 |Preparation week|14/01/2026|||||||
-|11|21/01/2026|||||||
-|12|28/01/2026|||||||
+|13|21/01/2026|SES x QuSS seminar: Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)||||||
+|12|27/01/2026|SES x QuSS seminar: [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana)||Caitlin Robinson||
 |13|04/02/2026|||||||
 |14|11/02/2026|||||||
 |15|18/02/2026|||||||
