@@ -50,22 +50,22 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |Winter vacation|31/12/2025|No seminar|||||||
 |Winter vacation|7/01/2026|No seminar|||||||
 |Preparation week|14/01/2026|||||||
-|13|21/01/2026 (12 - 1pm)|*SES x QuSS seminar:* Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)|FRY BLDG LG.20|Yes|Qiujie Shi|Start of term social|
+|13|21/01/2026 (12 - 1pm)|*SES x QuSS seminar:* Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)|Fry Building LG.20|Yes|Qiujie Shi|Start of term social|
 |14|27/01/2026|*SES x QuSS seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana)||Yes|Caitlin Robinson||
-|15|04/02/2026||FRY BLDG G.13|||
-|16|11/02/2026||FRY BLDG G.13|||||
+|15|04/02/2026||Fry Building G.13|||
+|16|11/02/2026||Fry Building G.13|||||
 |17|19/02/2026 (Note this is a Thursday! 4pm-6pm)|*Geographers Salon:* Time travel|Peel Lecture Theatre and Common Room|No|Naomi Millner||
 |18|27/02/2026 (Note this is a Friday! 9am-5pm)|*Peter Haggett Celebration event*||Rich Harris||
-|19|04/03/2025|||||||
-|20|11/03/2025||FRY BLDG G.06|Caitlin Robinson|Yes||
-|21|18/03/2025|||||||
-|Spring vacation|25/03/2025|||||||
-|Spring vacation|01/04/2026|||||||
-|Spring vacation|08/04/2026|||||||
-|22|15/04/2026|||||||
-|23|22/04/2026|||||||
-|24|29/04/2026|||||||
-|TB2 Assessment period|06/05/2026|||||||
-|TB2 Assessment period|13/05/2026|||||||
-|TB2 Assessment period|20/05/2026|||||||
+|19|04/03/2025||Arts Complex G10|Caitlin Robinson|Yes||
+|20|11/03/2025||Fry Building G.06|Caitlin Robinson|Yes||
+|21|18/03/2025||Arts Complex G10|Caitlin Robinson|Yes||
+|Spring vacation|25/03/2025||Fry Building G.13|||
+|Spring vacation|01/04/2026||Fry Building G.13|||
+|Spring vacation|08/04/2026||Fry Building G.13|||
+|22|15/04/2026||Arts Complex G10|Caitlin Robinson|Yes||
+|23|22/04/2026||Fry Building LG.20||Caitlin Robinson|Yes||
+|24|29/04/2026||Arts Complex G10|Caitlin Robinson|Yes||
+|TB2 Assessment period|06/05/2026||Peel Lecture Theatre|Caitlin Robinson|Yes||
+|TB2 Assessment period|13/05/2026|No seminar||||||
+|TB2 Assessment period|20/05/2026|No seminar||||||
 
