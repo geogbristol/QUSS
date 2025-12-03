@@ -59,8 +59,8 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |19|04/03/2025||Arts Complex G10|Caitlin Robinson|Yes||
 |20|11/03/2025||Fry Building G.06|Caitlin Robinson|Yes||
 |21|18/03/2025||Arts Complex G10|Caitlin Robinson|Yes||
-|Spring vacation|25/03/2025||Fry Building G.13|||
-|Spring vacation|01/04/2026||Fry Building G.13|||
+|Spring vacation|25/03/2025|No seminar|Fry Building G.13|||
+|Spring vacation|01/04/2026|No seminar|Fry Building G.13|||
 |Spring vacation|08/04/2026||Fry Building G.13|||
 |22|15/04/2026||Arts Complex G10|Caitlin Robinson|Yes||
 |23|22/04/2026||Fry Building LG.20||Caitlin Robinson|Yes||
