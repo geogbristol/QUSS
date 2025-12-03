@@ -54,7 +54,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |14|27/01/2026|SES x QuSS seminar: [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana)||Caitlin Robinson||
 |15|04/02/2026|||||||
 |16|11/02/2026|||||||
-|17|18/02/2026|||||||
+|17|19/02/2026 (Note this is a Thursday! 4pm-6pm)|Geographers Salon: Time travel|Peel Lecture Theatre and Common Room|Naomi Millner||
 |18|27/02/2026 (Note this is a Friday! 9am-5pm)|Peter Haggett Celebration event||Rich Harris||
 |19|04/03/2025|||||||
 |20|11/03/2025|||||||
