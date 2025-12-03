@@ -50,21 +50,21 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |Winter vacation|31/12/2025|No seminar|||||||
 |Winter vacation|7/01/2026|No seminar|||||||
 |Preparation week|14/01/2026|||||||
-|13|21/01/2026|SES x QuSS seminar: Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)||||||
-|12|27/01/2026|SES x QuSS seminar: [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana)||Caitlin Robinson||
-|13|04/02/2026|||||||
-|14|11/02/2026|||||||
-|15|18/02/2026|||||||
-|TB2 consolidation week|25/02/2026|||||||
-|16|04/03/2025|||||||
-|17|11/03/2025|||||||
-|18|18/03/2025|||||||
+|13|21/01/2026 (Note this is a Tuesday!)|SES x QuSS seminar: Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)||Qiujie Shi||||
+|14|27/01/2026|SES x QuSS seminar: [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana)||Caitlin Robinson||
+|15|04/02/2026|||||||
+|16|11/02/2026|||||||
+|17|18/02/2026|||||||
+|18|27/02/2026 (Note this is a Friday! 9am-5pm)|Peter Haggett Celebration event||Rich Harris||
+|19|04/03/2025|||||||
+|20|11/03/2025|||||||
+|21|18/03/2025|||||||
 |Spring vacation|25/03/2025|||||||
 |Spring vacation|01/04/2026|||||||
 |Spring vacation|08/04/2026|||||||
-|19|15/04/2026|||||||
-|20|22/04/2026|||||||
-|Preparation week|29/04/2026|||||||
+|22|15/04/2026|||||||
+|23|22/04/2026|||||||
+|24|29/04/2026|||||||
 |TB2 Assessment period|06/05/2026|||||||
 |TB2 Assessment period|13/05/2026|||||||
 |TB2 Assessment period|20/05/2026|||||||
