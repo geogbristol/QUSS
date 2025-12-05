@@ -50,7 +50,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |Winter vacation|31/12/2025|No seminar|||||||
 |Winter vacation|7/01/2026|No seminar|||||||
 |Preparation week|14/01/2026|No seminar||||||
-|13|21/01/2026 (12 - 1pm)|*SES x QuSS seminar:* Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)|Fry Building LG.20|Yes|Qiujie Shi|Start of term social|
+|13|21/01/2026 (1 - 2pm)|*SES x QuSS seminar:* Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)|Fry Building 2.41|Yes|Qiujie Shi|Start of term social|
 |14|27/01/2026 (Note this is a Tuesday!)|*SES x QuSS seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana) "Decolonising Green Restoration: Indigenous Knowledge and Epistemic Justice in Nature-Based Solutions in the Bengal Delta" ||Yes|Caitlin Robinson||
 |15|04/02/2026||Fry Building G.13|||
 |16|11/02/2026||Fry Building G.13|||||
