@@ -61,7 +61,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |21|18/03/2025||Arts Complex G10|Caitlin Robinson|Yes||
 |Spring vacation|25/03/2025|No seminar|Fry Building G.13|||
 |Spring vacation|01/04/2026|No seminar|Fry Building G.13|||
-|Spring vacation|08/04/2026||Fry Building G.13|||
+|Spring vacation|08/04/2026 (1pm - 5pm)||Fry Building G.13|QuSS Away Afternoon||
 |22|15/04/2026|[Ailish Craig](https://www.bristol.ac.uk/people/person/Ailish-Craig-6ee32c0e-04f8-42d4-b2c0-9c24ff7da1bc/) (University of Bristol), [*Communicating Uncertain Climate Futures*](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70027)|Arts Complex G10|Caitlin Robinson|Yes||
 |23|22/04/2026||Fry Building LG.20||Caitlin Robinson|Yes||
 |24|29/04/2026||Arts Complex G10|Caitlin Robinson|Yes||
