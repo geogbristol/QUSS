@@ -53,7 +53,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |13|21/01/2026 (1 - 2pm)|*SES x QuSS seminar:* Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)|Fry Building 2.41|Yes|Qiujie Shi|Start of term social|
 |14|27/01/2026 (Note this is a Tuesday! 12-1pm)|*PE x SES x QuSS seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana) "Decolonising Green Restoration: Indigenous Knowledge and Epistemic Justice in Nature-Based Solutions in the Bengal Delta" |SR2|Yes|Caitlin Robinson||
 |15|04/02/2026||Fry Building G.13|||
-|16|11/02/2026||Fry Building G.13|[Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi/) (University of Bristol):*Behind the rising periphery: Divergent paths in the global urban hierarchy*||||
+|16|11/02/2026|[Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi/) (University of Bristol):*Behind the rising periphery: Divergent paths in the global urban hierarchy*|Fry Building G.13|Yes|Caitlin Robinson||
 |17|19/02/2026 (Note this is a Thursday! 4pm-6pm)|*Geographers Salon:* Time travel|Peel Lecture Theatre and Common Room|No|Naomi Millner||
 |18|27/02/2026 (Note this is a Friday! 9am-5pm)|*Peter Haggett Celebration event*||Rich Harris||
 |19|04/03/2025||Arts Complex G10|Yes|Caitlin Robinson||
