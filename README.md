@@ -56,8 +56,8 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |16|11/02/2026||Fry Building G.13|||||
 |17|19/02/2026 (Note this is a Thursday! 4pm-6pm)|*Geographers Salon:* Time travel|Peel Lecture Theatre and Common Room|No|Naomi Millner||
 |18|27/02/2026 (Note this is a Friday! 9am-5pm)|*Peter Haggett Celebration event*||Rich Harris||
-|19|04/03/2025||Arts Complex G10|Caitlin Robinson|Yes||
-|20|11/03/2025||Fry Building G.06|Caitlin Robinson|Yes||
+|19|04/03/2025||Arts Complex G10|Yes|Caitlin Robinson||
+|20|11/03/2025||Fry Building G.06|Yes|Caitlin Robinson||
 |21|18/03/2025||Arts Complex G10|Caitlin Robinson|Yes||
 |Spring vacation|25/03/2025|No seminar|Fry Building G.13|||
 |Spring vacation|01/04/2026|No seminar|Fry Building G.13|||
