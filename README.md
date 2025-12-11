@@ -55,17 +55,17 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |15|04/02/2026|[Becky Collins](https://research-information.bris.ac.uk/en/persons/becky-collins/) Maths and statistics anxiety in teaching|Fry Building G.13|Yes|Caitlin Robinson|
 |16|11/02/2026|[Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi/) (University of Bristol): *Behind the rising periphery: Divergent paths in the global urban hierarchy*|Fry Building G.13|Yes|Caitlin Robinson||
 |17|19/02/2026 (Note this is a Thursday! 4pm-6pm)|*Geographers Salon:* Time travel|Peel Lecture Theatre and Common Room|No|Naomi Millner||
-|18|27/02/2026 (Note this is a Friday! 9am-5pm)|*Peter Haggett Celebration event*||Rich Harris||
+|18|27/02/2026 (Note this is a Friday! 9am-5pm)|*Peter Haggett Celebration event*|||Rich Harris||
 |19|04/03/2025||Arts Complex G10|Yes|Caitlin Robinson||
 |20|11/03/2025||Fry Building G.06|Yes|Caitlin Robinson||
-|21|18/03/2025||Arts Complex G10|Caitlin Robinson|Yes||
+|21|18/03/2025||Arts Complex G10|Yes|Caitlin Robinson|
 |Spring vacation|25/03/2025|No seminar|Fry Building G.13|||
 |Spring vacation|01/04/2026|No seminar|Fry Building G.13|||
-|Spring vacation|08/04/2026 (1pm - 5pm)|QuSS Away Afternoon||||
+|Spring vacation|08/04/2026 (1pm - 5pm)|QuSS Away Afternoon|No|Caitlin Robinson||
 |22|15/04/2026|[Ailish Craig](https://www.bristol.ac.uk/people/person/Ailish-Craig-6ee32c0e-04f8-42d4-b2c0-9c24ff7da1bc/) (University of Bristol), [*Communicating Uncertain Climate Futures*](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70027)|Arts Complex G10|Yes|Caitlin Robinson||
-|23|22/04/2026||Fry Building LG.20||Caitlin Robinson|Yes||
-|24|29/04/2026||Arts Complex G10|Caitlin Robinson|Yes||
-|TB2 Assessment period|06/05/2026||Peel Lecture Theatre|Caitlin Robinson|Yes||
+|23|22/04/2026||Fry Building LG.20||Yes|Caitlin Robinson||
+|24|29/04/2026||Arts Complex G10|Yes|Caitlin Robinson||
+|TB2 Assessment period|06/05/2026||Peel Lecture Theatre|Yes|Caitlin Robinson||
 |TB2 Assessment period|13/05/2026|No seminar||||||
 |TB2 Assessment period|20/05/2026|No seminar||||||
 
