@@ -58,7 +58,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |18|27/02/2026 (Note this is a Friday! 9am-5pm)|*Peter Haggett Celebration event*|||Rich Harris||
 |19|04/03/2025 (12-1pm)|TBC|Arts Complex G10|Yes - see calendar|Caitlin Robinson||
 |20|11/03/2025 (12-1pm)|[Ce Zhang](https://research-information.bris.ac.uk/en/persons/ce-zhang/) TBC|Fry Building G.06|Yes - see calendar|Caitlin Robinson||
-|21|18/03/2025 (12-1pm) (Note back-to-back seminar options today!)|*SES x QuSS seminar:* Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)|G06 FRY Building|Yes - see teams link in calendar|Caitlin Robinson||
+|21|18/03/2025 (12-1pm) (Note back-to-back seminar options today!)|*SES x QuSS seminar:* Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)|G06 FRY Building|Yes - see calendar|Caitlin Robinson||
 |21|18/03/2025 (1-2pm) (Note back-to-back seminar options today!)|*Turing seminar:* [Elena Simperl](https://www.kcl.ac.uk/people/elena-simperl) (Kings College London), Open data infrastructure in the age of generative AI|TBC|No|Rui Zhu||
 |Spring vacation|25/03/2025|No seminar||||
 |Spring vacation|01/04/2026|No seminar||||
