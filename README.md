@@ -65,7 +65,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |22|15/04/2026|[Ailish Craig](https://www.bristol.ac.uk/people/person/Ailish-Craig-6ee32c0e-04f8-42d4-b2c0-9c24ff7da1bc/) (University of Bristol), [*Communicating Uncertain Climate Futures*](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70027)|Arts Complex G10|Yes - see Calendar|Caitlin Robinson||
 |23|22/04/2026|TBC|Fry Building LG.20|Yes|Caitlin Robinson||
 |24|29/04/2026|TBC|Arts Complex G10|Yes|Caitlin Robinson||
-|TB2 Assessment period|06/05/2026||Peel Lecture Theatre|Yes|Caitlin Robinson||
+|TB2 Assessment period|06/05/2026|TBC|Peel Lecture Theatre|Yes|Caitlin Robinson||
 |TB2 Assessment period|13/05/2026|No seminar||||||
 |TB2 Assessment period|20/05/2026|No seminar||||||
 
