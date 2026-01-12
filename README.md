@@ -59,12 +59,12 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |19|04/03/2025 (12-1pm)|TBC|Arts Complex G10|Yes - see calendar|Caitlin Robinson||
 |20|11/03/2025 (12-1pm)|[Ce Zhang](https://research-information.bris.ac.uk/en/persons/ce-zhang/) TBC|Fry Building G.06|Yes - see calendar|Caitlin Robinson||
 |21|18/03/2025|*SES x QuSS seminar:* Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)|G06 FRY Building|Yes - see teams link in calendar|Caitlin Robinson||
-|Spring vacation|25/03/2025|No seminar|Fry Building G.13|||
-|Spring vacation|01/04/2026|No seminar|Fry Building G.13|||
+|Spring vacation|25/03/2025|No seminar||||
+|Spring vacation|01/04/2026|No seminar||||
 |Spring vacation|08/04/2026 (1pm - 5pm)|QuSS Staff Away Afternoon|TBC|No|Caitlin Robinson||
-|22|15/04/2026|[Ailish Craig](https://www.bristol.ac.uk/people/person/Ailish-Craig-6ee32c0e-04f8-42d4-b2c0-9c24ff7da1bc/) (University of Bristol), [*Communicating Uncertain Climate Futures*](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70027)|Arts Complex G10|Yes - see Calendar|Caitlin Robinson||
+|22|15/04/2026|[Ailish Craig](https://www.bristol.ac.uk/people/person/Ailish-Craig-6ee32c0e-04f8-42d4-b2c0-9c24ff7da1bc/) (University of Bristol), [*Communicating Uncertain Climate Futures*](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70027)|G.06 Fry Building|Yes - see Calendar|Caitlin Robinson||
 |23|22/04/2026|TBC|Fry Building LG.20|Yes|Caitlin Robinson||
-|24|29/04/2026|TBC|Arts Complex G10|Yes|Caitlin Robinson||
+|24|29/04/2026|TBC|G.06 Fry Building|Yes|Caitlin Robinson||
 |TB2 Assessment period|06/05/2026|TBC|Peel Lecture Theatre|Yes|Caitlin Robinson||
 |TB2 Assessment period|13/05/2026|No seminar||||||
 |TB2 Assessment period|20/05/2026|No seminar||||||
