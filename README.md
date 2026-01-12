@@ -51,13 +51,13 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |Winter vacation|7/01/2026|No seminar|||||||
 |Preparation week|14/01/2026|No seminar||||||
 |13|21/01/2026 (1 - 2pm)|Seminar cancelled due to school assembly|||||
-|14|27/01/2026 (Note this is a Tuesday! 12-1pm)|*PE x SES x QuSS seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana) "Decolonising Green Restoration: Indigenous Knowledge and Epistemic Justice in Nature-Based Solutions in the Bengal Delta"|SR2|Yes|Caitlin Robinson||
-|15|04/02/2026 (12-1pm)|[Becky Collins](https://research-information.bris.ac.uk/en/persons/becky-collins/) (University of Bristol) Maths and statistics anxiety in teaching|Fry Building G.13|Yes - see teams link in calendar|Caitlin Robinson|
-|16|11/02/2026 (12-1pm)|[Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi/) (University of Bristol): *Behind the rising periphery: Divergent paths in the global urban hierarchy*|Fry Building G.13|Yes - see teams link in calendar|Caitlin Robinson||
+|14|27/01/2026 (Note this is a Tuesday! 12-1pm)|*PE x SES x QuSS seminar:* [Mehebub Sahana](https://research.manchester.ac.uk/en/persons/mehebub.sahana) "Decolonising Green Restoration: Indigenous Knowledge and Epistemic Justice in Nature-Based Solutions in the Bengal Delta"|SR2|Yes - see calendar|Caitlin Robinson||
+|15|04/02/2026 (12-1pm)|[Becky Collins](https://research-information.bris.ac.uk/en/persons/becky-collins/) (University of Bristol) Maths and statistics anxiety in teaching|Fry Building G.13|Yes - see calendar|Caitlin Robinson|
+|16|11/02/2026 (12-1pm)|[Qiujie Shi](https://research-information.bris.ac.uk/en/persons/qiujie-shi/) (University of Bristol): *Behind the rising periphery: Divergent paths in the global urban hierarchy*|Fry Building G.13|Yes - see calendar|Caitlin Robinson||
 |17|19/02/2026 (Note this is a Thursday! 4pm-6pm)|*Geographers Salon:* Time travel|Peel Lecture Theatre and Common Room|No|Naomi Millner||
 |18|27/02/2026 (Note this is a Friday! 9am-5pm)|*Peter Haggett Celebration event*|||Rich Harris||
 |19|04/03/2025 (12-1pm)||Arts Complex G10|Yes - see teams link in calendar|Caitlin Robinson||
-|20|11/03/2025 (12-1pm)|[Ce Zhang](https://research-information.bris.ac.uk/en/persons/ce-zhang/) TBC|Fry Building G.06|Yes - see teams link in calendar|Caitlin Robinson||
+|20|11/03/2025 (12-1pm)|[Ce Zhang](https://research-information.bris.ac.uk/en/persons/ce-zhang/) TBC|Fry Building G.06|Yes - see calendar|Caitlin Robinson||
 |21|18/03/2025|*SES x QuSS seminar:* Ed Atkins, Caitlin Robinson and Tom Cantellow, [The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70008)|Arts Complex G10|Yes - see teams link in calendar|Caitlin Robinson||
 |Spring vacation|25/03/2025|No seminar|Fry Building G.13|||
 |Spring vacation|01/04/2026|No seminar|Fry Building G.13|||
