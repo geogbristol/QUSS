@@ -65,7 +65,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 |Spring vacation|08/04/2026 (1pm - 5pm)|QuSS Staff Away Afternoon|TBC|No|Caitlin Robinson||
 |22|15/04/2026|[Ailish Craig](https://www.bristol.ac.uk/people/person/Ailish-Craig-6ee32c0e-04f8-42d4-b2c0-9c24ff7da1bc/) (University of Bristol), ["Communicating Uncertain Climate Futures"](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70027)|G.06 Fry Building|Yes - see Calendar|Caitlin Robinson||
 |23|22/04/2026|[Rich Harris](https://www.bristol.ac.uk/people/person/Richard-Harris-871b21a9-0f5f-4bc8-9a99-8ace550d9903/) (University of Bristol) GeoAI discussion|Fry Building LG.20|Yes|Caitlin Robinson||
-|24|29/04/2026|TBC|G.06 Fry Building|Yes|Caitlin Robinson||
+|24|29/04/2026|[Scott Orford](https://profiles.cardiff.ac.uk/staff/orfords) (Cardiff University) TBC|G.06 Fry Building|Yes|Caitlin Robinson||
 |TB2 Assessment period|06/05/2026|TBC|Peel Lecture Theatre|Yes- see calendar|Caitlin Robinson||
 |TB2 Assessment period|13/05/2026|TBC|Fry Building G.09|Yes- see calendar|Caitlin Robinson|
 |TB2 Assessment period|20/05/2026|TBC|Fry Building LG.20|Yes- see calendar|Caitlin Robinson|
