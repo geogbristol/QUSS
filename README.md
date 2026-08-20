@@ -1,6 +1,6 @@
-# QuSS
+# Spatial Analysis and GeoAI (SAGE) Research Group 
 
-This page and repository represent the collection of resources for Quantitative Spatial Science. This is a research group consisting of academics and students from school of Geographical, University of Bristol, who are interested in human geography, quantitative methods and spatial sciences. Follow the [university official web page](http://www.bristol.ac.uk/geography/research/quantitative-spatial-science/) for more information.
+This page and repository represent the collection of resources for SAGE. This is a research group consisting of academics and students from school of Geographical, University of Bristol, who are interested in human geography, quantitative methods, spatial sciences, and GeoAI. Follow the [university official web page](http://www.bristol.ac.uk/geography/research/quantitative-spatial-science/) for more information.
 
 We meet for an hour once a week during academic year to discuss what's new in the world of quantitative geography and get inspired by presentations from researchers within our group, but also from the outside. This page provides you with useful information such as when do we meet, where, who is talking, but also link to form where you can provide your feedback or suggestions for sessions.
 
