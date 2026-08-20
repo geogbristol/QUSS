@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Join Us | SAGE Bristol</title>
+  <link rel="stylesheet" href="styles/main.css?v=10" />
+</head>
+<body data-page="join">
+  <div id="site-header"></div>
+
+  <div class="wrap">
+    <div class="page-intro">
+      <h1>Join Us</h1>
+      <p>We're always interested in hearing from prospective students and researchers.</p>
+    </div>
+
+    <section id="opportunities-section">
+      <div id="opportunities-list"></div>
+    </section>
+  </div>
+
+  <div id="site-footer"></div>
+
+  <script src="scripts/data.js?v=11"></script>
+  <script src="scripts/shared.js?v=10"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      document.getElementById("opportunities-list").innerHTML = OPPORTUNITIES.map(
+        (op) => `
+          <div class="position">
+            <h3>${op.title}</h3>
+            <p>${op.text}</p>
+            ${op.embed || ""}
+          </div>`
+      ).join("");
+    });
+  </script>
+</body>
+</html>

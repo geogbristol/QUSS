@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>News | SAGE Bristol</title>
+  <link rel="stylesheet" href="styles/main.css?v=10" />
+</head>
+<body data-page="news">
+  <div id="site-header"></div>
+
+  <div class="wrap">
+    <div class="page-intro">
+      <h1>News</h1>
+      <p>Updates from the group.</p>
+    </div>
+
+    <section>
+      <ul class="news-list" id="news-list"></ul>
+    </section>
+  </div>
+
+  <div id="site-footer"></div>
+
+  <script src="scripts/data.js?v=11"></script>
+  <script src="scripts/shared.js?v=10"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      document.getElementById("news-list").innerHTML = NEWS.map(
+        (n) => `<li><span class="news-date">${formatDate(n.date)}</span><span>${n.text}</span></li>`
+      ).join("");
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Research | SAGE Bristol</title>
+  <link rel="stylesheet" href="styles/main.css?v=10" />
+</head>
+<body data-page="research">
+  <div id="site-header"></div>
+
+  <div class="wrap">
+    <div class="page-intro">
+      <h1>Research</h1>
+      <p>An overview of the main directions the group works on.</p>
+    </div>
+
+    <section>
+      <div class="card-grid" id="research-list"></div>
+    </section>
+  </div>
+
+  <div id="site-footer"></div>
+
+  <script src="scripts/data.js?v=11"></script>
+  <script src="scripts/shared.js?v=10"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      document.getElementById("research-list").innerHTML = RESEARCH.map(
+        (r) => `<div class="card"><h3>${r.title}</h3><p>${r.description}</p></div>`
+      ).join("");
+    });
+  </script>
+</body>
+</html>

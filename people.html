@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>People | SAGE Bristol</title>
+  <link rel="stylesheet" href="styles/main.css?v=10" />
+</head>
+<body data-page="people">
+  <div id="site-header"></div>
+
+  <div class="wrap">
+    <div class="page-intro">
+      <h1>People</h1>
+      <p>
+        The group is co-led by
+        <a href="https://www.bristol.ac.uk/people/person/Caitlin-Robinson-29fc8d3e-8d7e-41ba-80f9-0e325f1cce90/" target="_blank" rel="noopener">Cait Robinson</a>
+        and
+        <a href="https://www.bristol.ac.uk/people/person/Rui-Zhu-8537f231-1192-41d4-b8ff-ddc52cca4dfb/" target="_blank" rel="noopener">Rui Zhu</a>.
+      </p>
+    </div>
+
+    <section id="people-sections"></section>
+  </div>
+
+  <div id="site-footer"></div>
+
+  <script src="scripts/data.js?v=11"></script>
+  <script src="scripts/shared.js?v=10"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const container = document.getElementById("people-sections");
+
+      container.innerHTML = PEOPLE_CATEGORY_ORDER.map((category) => {
+        const members = shuffled(PEOPLE.filter((p) => p.category === category));
+        if (members.length === 0) return "";
+
+        const cards = members
+          .map(
+            (p) => `
+              <div class="person">
+                ${personPhotoHtml(p)}
+                <div class="person-name">${p.url ? `<a href="${p.url}" target="_blank" rel="noopener">${p.name}</a>` : p.name}</div>
+                ${p.role ? `<div class="person-role">${p.role}</div>` : ""}
+                ${p.note ? `<div class="person-note">${p.note}</div>` : ""}
+              </div>`
+          )
+          .join("");
+
+        return `
+          <div class="people-category">
+            <h2>${category}</h2>
+            <div class="people-grid">${cards}</div>
+          </div>`;
+      }).join("");
+    });
+  </script>
+</body>
+</html>
