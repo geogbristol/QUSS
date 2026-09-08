@@ -20,6 +20,44 @@ There are three types of session.
 Bellow you can find schedule for this academic year.
 
 ## Suggestions, questions, and feedback
-If you have a suggestion for discussion, presentation topic you are interested in, know about someone from other university you want to hear about or just want to give us some feedback send us an email to caitlin.robinson@bristol.ac.uk.
+If you have a suggestion for discussion, presentation topic you are interested in, know about someone from other university you want to hear about or just want to give us some feedback send us an email to rui.zhu@bristol.ac.uk or caitlin.robinson@bristol.ac.uk.
 
 ## Schedule
+|Week |	Date |	Room	| Speaker	| SES Social event	| Calendar created? | Chair |
+|----|----|-----|------|-------|---------|
+| 1	| 23/09/2026	|	|	| | |
+| 2 |	30/09/2026 | | | | |			
+| 3	| 07/10/2026 | SES x SAGE seminar: Ed Atkins, Caitlin Robinson and Tom Cantellow, The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales	| | |
+| 4 |	12/10/2026	| | | | |			
+| 5 |	19/10/2026	|	| | | |
+| Consolidation week |	28/10/2026 | ||||
+| 7 |	04/11/2026 * Note there are two seminars this week!	|	SES x SAGE session: Davide Luca	|||||
+| 7 |	06/11/2026 * Note there are two seminars this week!	|	External examiner talk 	| |||| Emmanouil Tranos |
+| 8	| 11/11/2026	|	| | | |	
+| 9	| 18/11/2026	|	| | | |
+| 10	| 25/11/2026 | | | | |
+| 11 | 2/12/2026	| | | | |		
+| 12 |	09/12/2026 | | | |				
+| TB1 AP| 116/12/2026 | | | | |				
+| Winter holidays	| | | | | | 				
+| Winter holidays	|	| | | |			
+| Winter holidays	| | | | |
+| TB2 PW |	13/01/2027 | | | | |				
+| 13 | 20/01/2027	| | | | |			
+| 14 | 27/01/2027	| | | | |			
+| 15 | 03/02/2027	| | | | |			
+| 16 |	11/02/2027 | | | | |				
+| 17 |	17/02/2027	| | | | |			
+| Consolidation week | 24/02/2027	|		
+| 19 |	03/03/2027 | | | | |				
+| 20 |	11/03/2027 | | | | |			
+| 21 |	17/03/2027 | | | | |			
+| Spring vacation |	22/03/2027	| | | | | 			
+| Spring vacation | 1/04/2027	| | | | |		
+| Spring vacation |	07/04/2027 | | | | |				
+| 22 |	14/04/2027	| | | | |			
+| 23 |	21/04/2027 | | | | |				
+| 24 |	28/04/2027 | | | | |				
+TB2 AP	03/05/2027				
+TB2 AP	10/05/2027				
+TB2 AP	17/05/2027
