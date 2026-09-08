@@ -30,7 +30,7 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | 3	| 07/10/2026 | SES x SAGE seminar: Ed Atkins, Caitlin Robinson and Tom Cantellow, The salt fringe as an energy periphery: Energy efficiency in the private rental sector of seaside towns in England and Wales	| | |
 | 4 |	14/10/2026	| | | | |			
 | 5 |	21/10/2026	|	| | | |
-| Consolidation week |	28/10/2026 | ||||
+| CW |	28/10/2026 | ||||
 | 7 |	04/11/2026 * Note there are two seminars this week!	|	SES x SAGE session: Davide Luca	|||||
 | 7 |	06/11/2026 * Note there are two seminars this week!	|	External examiner talk 	| |||| Emmanouil Tranos |
 | 8	| 11/11/2026	|	| | | |	
@@ -38,26 +38,26 @@ If you have a suggestion for discussion, presentation topic you are interested i
 | 10	| 25/11/2026 | | | | |
 | 11 | 02/12/2026	| | | | |		
 | 12 | 09/12/2026 | | | |				
-| TB1 AP| 16/12/2026 | No seminar | | | |				
-| Winter holidays	| No seminar | | | | | 				
-| Winter holidays	|	No seminar | | | |			
-| Winter holidays	| No seminar| | | |
-| TB2 PW |	13/01/2027 | | | | |				
+| AP| 16/12/2026 | No seminar | | | |				
+| WH	| No seminar | | | | | 				
+| WH	|	No seminar | | | |			
+| WH | No seminar| | | |
+| PW |	13/01/2027 | | | | |				
 | 13 | 20/01/2027	| | | | |			
 | 14 | 27/01/2027	| | | | |			
 | 15 | 03/02/2027	| | | | |			
 | 16 | 10/02/2027 | | | | |				
 | 17 |	17/02/2027	| | | | |			
-| Consolidation week | 24/02/2027	|		
+|CW | 24/02/2027	|		
 | 19 |	03/03/2027 | | | | |				
 | 20 |	10/03/2027 | | | | |			
 | 21 |	17/03/2027 | | | | |			
-| Spring vacation |	24/03/2027	| | | | | 			
-| Spring vacation | 31/03/2027	| | | | |		
-| Spring vacation |	07/04/2027 | | | | |				
+| SV |	24/03/2027	| | | | | 			
+| SV | 31/03/2027	| | | | |		
+| SV |	07/04/2027 | | | | |				
 | 22 |	14/04/2027	| | | | |			
 | 23 |	21/04/2027 | | | | |				
 | 24 |	28/04/2027 | | | | |				
-TB2 AP	05/05/2027	| | | | |			
-TB2 AP	12/05/2027	| | | | |			
-TB2 AP	19/05/2027| | | | |	
+| AP |	05/05/2027	| | | | |			
+| AP |	12/05/2027	| | | | |			
+| AP |	19/05/2027| | | | |	
