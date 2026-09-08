@@ -23,7 +23,7 @@ Bellow you can find schedule for this academic year.
 If you have a suggestion for discussion, presentation topic you are interested in, know about someone from other university you want to hear about or just want to give us some feedback send us an email to rui.zhu@bristol.ac.uk or caitlin.robinson@bristol.ac.uk.
 
 ## Schedule
-| Week |	Date |	Room	| Speaker	| SAGE Social event	| Calendar created? | Chair |
+| Week |	Date |	Speaker and title	| Room	| SAGE Social event	| Calendar created? | Chair |
 |----|----|-----|------|-------|---------|----|
 | 1	| 23/09/2026	|	|	| | |
 | 2 |	30/09/2026 | | | | |			
